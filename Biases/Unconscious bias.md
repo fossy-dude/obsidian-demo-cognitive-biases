@@ -112,10 +112,10 @@ C) Cross the street based on your gut feeling about them
 ---
 
 **Quick Test Answers:**
-1) A - Many people unconsciously favor those with shared backgrounds
-2) B or A - Both show common unconscious biases, B is more common
-3) A - Most people rely on stereotypes in technical situations
-4) A or C - Many people make safety judgments based on unconscious biases
+1. A - Many people unconsciously favor those with shared backgrounds
+2. B or A - Both show common unconscious biases, B is more common
+3. A - Most people rely on stereotypes in technical situations
+4. A or C - Many people make safety judgments based on unconscious biases
 
 > "The first step toward change is awareness. The second step is acceptance." - Nathaniel Branden
 

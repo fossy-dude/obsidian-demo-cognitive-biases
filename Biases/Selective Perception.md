@@ -47,11 +47,8 @@ Imagine you have magic glasses that only let you see things you already believe 
 # 4. Quick Test **Ask Yourself These questions:**
 
 1. **The Contradiction Check:** When was the last time you actively sought out information that challenged your core beliefs? If you can't recall, you might be filtering out opposing views.
-
 2. **The Balance Test:** For every piece of evidence supporting your position, can you identify one piece that contradicts it? If not, you may be selectively perceiving reality.
-
 3. **The Surprise Factor:** How often are you genuinely surprised by information that doesn't fit your worldview? Frequent surprise suggests you're not seeing the full picture.
-
 4. **The Memory Gap:** Do you remember details that support your beliefs more vividly than those that challenge them? This memory asymmetry is a classic sign of selective perception.
 
 # 5. How to Counteract 🛠️

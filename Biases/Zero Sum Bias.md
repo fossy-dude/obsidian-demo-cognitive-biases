@@ -69,13 +69,9 @@ The Zero Sum Bias is when you think everything in life works like that pizza sli
 ## 4.1. Self-Assessment Questions
 
 1. **The Success Reaction Test**: When you hear about someone else's success, is your first genuine reaction happiness or anxiety?
-
 2. **The Resource Sharing Check**: How comfortable are you sharing your knowledge, contacts, or resources with others, even potential competitors?
-
 3. **The Abundance vs. Scarcity Assessment**: Do you generally believe there's enough success, opportunity, and happiness for everyone, or do you see life as a competition for limited resources?
-
 4. **The Collaboration vs. Competition Pattern**: When approaching new situations, do you automatically think "How can I win?" or "How can we all benefit?"
-
 5. **The Growth Mindset Test**: Can you easily imagine scenarios where multiple people or entities can all succeed and grow simultaneously?
 
 **Scoring**: If you answered with scarcity, competition, or anxiety-focused responses to three or more questions, the Zero Sum Bias may be influencing your thinking.

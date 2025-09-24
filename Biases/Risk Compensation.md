@@ -12,21 +12,14 @@ Imagine you're wearing a helmet while riding your bike—suddenly you feel so sa
 
 **Warning Signs of Risk Compensation:**
 
-• You find yourself taking more risks after implementing safety measures or precautions
-
-• You notice yourself driving faster, tailgating, or being more aggressive now that you have anti-lock brakes or airbags
-
-• You feel "invincible" or overly confident when using safety equipment or protective gear
-
-• You catch yourself thinking "I can be more reckless because I'm protected" or "It's okay to push the limits since I have a backup plan"
-
-• You skip basic safety precautions because you have more advanced protection in place
-
-• You notice your behavior becoming riskier as you gain more experience or better tools
-
-• You find yourself rationalizing dangerous actions by pointing to your safety measures
-
-• You observe others taking more risks after safety improvements are implemented
+- You find yourself taking more risks after implementing safety measures or precautions
+- You notice yourself driving faster, tailgating, or being more aggressive now that you have anti-lock brakes or airbags
+- You feel "invincible" or overly confident when using safety equipment or protective gear
+- You catch yourself thinking "I can be more reckless because I'm protected" or "It's okay to push the limits since I have a backup plan"
+- You skip basic safety precautions because you have more advanced protection in place
+- You notice your behavior becoming riskier as you gain more experience or better tools
+- You find yourself rationalizing dangerous actions by pointing to your safety measures
+- You observe others taking more risks after safety improvements are implemented
 
 # 3. How Bias Shows Up
 
@@ -59,9 +52,7 @@ Imagine you're wearing a helmet while riding your bike—suddenly you feel so sa
 **Risk Compensation Self-Check:**
 
 1. **The "Safety Net" Test**: "Have I changed my behavior since adding safety measures or protection? Am I taking risks now that I wouldn't have taken before these safeguards were in place?"
-
 2. **The "Baseline Behavior" Test**: "If I removed all my safety equipment and backup plans, would I still engage in this activity the same way? If not, I might be compensating for risk rather than managing it."
-
 3. **The "Precaution Paradox" Test**: "Am I relying on my safety measures so much that I'm neglecting basic, fundamental safety practices that should always be followed regardless of protection?"
 
 **Quick Check**: If you've become more reckless or complacent since implementing safety measures, you're likely experiencing risk compensation!
@@ -71,19 +62,19 @@ Imagine you're wearing a helmet while riding your bike—suddenly you feel so sa
 **️ Defense Strategies Against Risk Compensation:**
 
 **Before Making Decisions:**
-• **Establish Baseline Standards**: Define your safety behavior BEFORE implementing additional protection—commit to maintaining these standards regardless of safety upgrades
-• **Practice "Safety First" Mindset**: Always treat safety equipment as the last line of defense, not permission to be reckless
-• **Use the "Would I Do This Naked?" Test**: Ask yourself if you'd take this risk without any safety equipment—if not, reconsider the action
+- **Establish Baseline Standards**: Define your safety behavior BEFORE implementing additional protection—commit to maintaining these standards regardless of safety upgrades
+- **Practice "Safety First" Mindset**: Always treat safety equipment as the last line of defense, not permission to be reckless
+- **Use the "Would I Do This Naked?" Test**: Ask yourself if you'd take this risk without any safety equipment—if not, reconsider the action
 
 **When Using Safety Equipment:**
-• **Maintain Heightened Awareness**: Safety features should make you more vigilant, not less—actively watch for dangers that your equipment doesn't cover
-• **Respect the Limits**: Understand that no safety system is perfect—there's always a risk that your protection could fail
-• **Follow All Safety Protocols**: Never skip basic safety steps just because you have advanced protection
+- **Maintain Heightened Awareness**: Safety features should make you more vigilant, not less—actively watch for dangers that your equipment doesn't cover
+- **Respect the Limits**: Understand that no safety system is perfect—there's always a risk that your protection could fail
+- **Follow All Safety Protocols**: Never skip basic safety steps just because you have advanced protection
 
 **For Better Decision-Making:**
-• **Regular Safety Audits**: Periodically review your behavior to ensure you're not becoming complacent with safety measures
-• **Set Risk Budgets**: Establish clear limits on how much risk you're willing to take, and stick to them regardless of protection level
-• **Practice Defensive Behavior**: Always assume worst-case scenarios and act accordingly, even when feeling protected
+- **Regular Safety Audits**: Periodically review your behavior to ensure you're not becoming complacent with safety measures
+- **Set Risk Budgets**: Establish clear limits on how much risk you're willing to take, and stick to them regardless of protection level
+- **Practice Defensive Behavior**: Always assume worst-case scenarios and act accordingly, even when feeling protected
 
 **🔑 Advanced Technique**: Keep a "risk diary" for two weeks—track every safety measure you use and note whether your behavior changes as a result. This builds awareness of your personal risk compensation patterns and helps you maintain consistent safety standards.
 

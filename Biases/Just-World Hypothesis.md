@@ -84,10 +84,8 @@ description: "Thinking that the world is fair and that everyone gets what is com
 
 - **Instead of:** "They should have known better"
 - **Try:** "That's really tough. How can I help?"
-
 - **Instead of:** "I'd never let that happen to me"
 - **Try:** "I can see how that situation could be challenging"
-
 - **Instead of:** "People get what they deserve"
 - **Try:** "Life isn't always fair, and that's hard to accept"
 

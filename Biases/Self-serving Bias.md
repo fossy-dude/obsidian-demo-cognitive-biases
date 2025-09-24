@@ -61,9 +61,7 @@ Self-serving bias is like being your own personal cheerleader! When you do somet
 **Ask yourself these questions to check for self-serving bias:**
 
 1. **The Attribution Test**: When something succeeds, do I immediately think "I caused this"? When it fails, do I think "Something else caused this"?
-
 2. **The Credit-Sharing Test**: Do I share credit for successes as readily as I share blame for failures?
-
 3. **The Pattern Recognition Test**: Looking at my last 5 successes and failures, do I see a consistent pattern of taking credit for good outcomes and deflecting responsibility for bad ones?
 
 **Self-Check Scenarios:**

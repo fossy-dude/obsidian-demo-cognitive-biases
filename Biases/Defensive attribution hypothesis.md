@@ -106,9 +106,9 @@ C) "I wonder what I can learn from their situation to avoid similar mistakes"
 ---
 
 **Quick Test Answers:**
-1) B - Looking for what the victim "should have done" differently (defensive attribution)
-2) B - Focusing on the victim's choices rather than the perpetrator's actions or systemic safety issues
-3) B - Assuming individual failure rather than considering external factors (defensive attribution helps you feel it won't happen to you)
+1. B - Looking for what the victim "should have done" differently (defensive attribution)
+2. B - Focusing on the victim's choices rather than the perpetrator's actions or systemic safety issues
+3. B - Assuming individual failure rather than considering external factors (defensive attribution helps you feel it won't happen to you)
 
 > "Before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes." - William Gibson
 

@@ -106,9 +106,9 @@ C) Ask if there's an easier program first
 ---
 
 **Quick Test Answers:**
-1) B or C - Recognize that struggle is normal learning discomfort (A shows the bias)
-2) B - View the struggle as part of the learning process (A and C show the bias)
-3) B - Accept the challenge as an opportunity for growth (A and C show the bias)
+1. B or C - Recognize that struggle is normal learning discomfort (A shows the bias)
+2. B - View the struggle as part of the learning process (A and C show the bias)
+3. B - Accept the challenge as an opportunity for growth (A and C show the bias)
 
 > "The struggle you're in today is developing the strength you need for tomorrow." - Unknown
 

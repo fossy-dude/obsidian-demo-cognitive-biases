@@ -10,19 +10,13 @@ The Mere Exposure Effect is like developing a taste for a song you hear on the r
 
 # 2. Recognizing the Bias
 
-• **Automatic preference for familiar options** - Choosing the same restaurant, route, or brand without considering alternatives
-
-• **Dismissing new ideas quickly** - Feeling skeptical or resistant to unfamiliar concepts before giving them fair consideration
-
-• **Gravitating toward known faces** - Preferring to work with or trust people you've interacted with before, even briefly
-
-• **Comfort with routine** - Feeling anxious or uncomfortable when familiar patterns are disrupted
-
-• **Brand loyalty without rational reasons** - Sticking with products or services simply because you've used them before
-
-• **Overvaluing past experiences** - Giving more weight to previous encounters than their actual relevance to current decisions
-
-• **Resistance to change** - Defaulting to "the way we've always done it" without evaluating if it's still the best approach
+- **Automatic preference for familiar options** - Choosing the same restaurant, route, or brand without considering alternatives
+- **Dismissing new ideas quickly** - Feeling skeptical or resistant to unfamiliar concepts before giving them fair consideration
+- **Gravitating toward known faces** - Preferring to work with or trust people you've interacted with before, even briefly
+- **Comfort with routine** - Feeling anxious or uncomfortable when familiar patterns are disrupted
+- **Brand loyalty without rational reasons** - Sticking with products or services simply because you've used them before
+- **Overvaluing past experiences** - Giving more weight to previous encounters than their actual relevance to current decisions
+- **Resistance to change** - Defaulting to "the way we've always done it" without evaluating if it's still the best approach
 
 # 3. How Bias Shows Up
 
@@ -55,9 +49,7 @@ The Mere Exposure Effect is like developing a taste for a song you hear on the r
 Ask yourself these three questions when making choices:
 
 1. **Am I choosing this because it's familiar?** - "Would I still pick this option if I encountered it for the first time today?"
-
 2. **Have I considered alternatives recently?** - "When was the last time I actively compared this choice to other available options?"
-
 3. **What would an outsider recommend?** - "If someone with no prior exposure to these options had to decide, what would they choose based purely on merit?"
 
 # 5. How to Counteract

@@ -12,7 +12,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Biases"
+        - file.folder == "Areas/Cognitive Biases/Biases"
     order:
       - file.name
       - category

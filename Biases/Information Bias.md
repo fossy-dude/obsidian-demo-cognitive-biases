@@ -48,13 +48,9 @@ Information bias is when we believe that having more information will always hel
 **Information Overload Assessment:**
 
 1. **Sufficiency Check**: Do you have enough information to make a reasonable decision? (Yes/No) If yes, why are you still researching?
-
 2. **Decision Timeline**: How long have you been gathering information versus the importance of this decision? Are you spending more time researching than the decision deserves?
-
 3. **Clarity Test**: Has each additional piece of information made you more or less confident about your decision? If it's making you less confident, you may have too much information.
-
 4. **Action Blocker**: What would happen if you made a decision based only on the information you had 24 hours ago? Would the outcome likely be significantly different?
-
 5. **Diminishing Returns**: Are you learning anything new and valuable, or are you just finding variations of the same information?
 
 **Information Bias Indicators**: If you answered "yes" to questions 1, 3, or 4, or if you're spending more time researching than the decision warrants, information bias may be affecting your judgment.
@@ -64,13 +60,9 @@ Information bias is when we believe that having more information will always hel
 **Immediate Decision Strategies:**
 
 1. **⏰ Set Information Deadlines**: Establish specific time limits for research before making decisions (e.g., "I'll research for 2 hours, then decide")
-
 2. **Define "Enough" Criteria**: Before starting research, determine what specific information you need and when you have "enough" to decide
-
 3. **Use the 80/20 Rule**: Focus on the 20% of information that will give you 80% of the insight you need for the decision
-
 4. ** Reverse the Process**: Instead of gathering information first, define your decision criteria first, then gather only what's needed
-
 5. ** Seek Trusted Opinions**: Consult 1-2 knowledgeable people rather than endless sources of information
 
 **Long-Term Decision Framework:**

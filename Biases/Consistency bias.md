@@ -52,13 +52,9 @@ The Consistency Bias is like that - we tend to remember our past feelings and ac
 ## 4.1. Self-Assessment Questions
 
 1. **The Time Machine Test**: If you could go back in time and talk to your younger self, would they be surprised by how you describe your current beliefs and attitudes?
-
 2. **The Evidence Check**: Can you find actual proof (old journals, emails, social media posts) that supports how you remember feeling about something in the past?
-
 3. **The Contradiction Detection**: When someone who knew you in the past contradicts your memory of your old attitudes, do you assume they're mistaken?
-
 4. **The Change Acknowledgment**: Can you easily list ways your attitudes, beliefs, or preferences have changed significantly over the past 5-10 years?
-
 5. **The Documentation Test**: If you found old writings or recordings of yourself, would they match your current memory of your past thoughts and feelings?
 
 **Scoring**: If you answered "yes" to questions 1, 3, or 5, or "no" to questions 2 or 4, the Consistency Bias may be affecting your memory.

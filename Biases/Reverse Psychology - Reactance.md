@@ -12,21 +12,14 @@ Imagine someone tells you "You probably shouldn't eat that cookie—it's too spe
 
 **Warning Signs of Reactance & Reverse Psychology:**
 
-• You feel an immediate urge to do something the moment someone tells you not to do it
-
-• You find yourself arguing against suggestions just because they feel like commands
-
-• You notice yourself saying "You can't tell me what to do!" even when the advice is reasonable
-
-• You make decisions specifically to prove someone wrong rather than because you want to
-
-• You feel a strong emotional reaction when someone tries to influence your choices
-
-• You catch yourself doing things you weren't interested in, simply because someone said you shouldn't
-
-• You defend positions you don't even care about just to maintain your sense of autonomy
-
-• You realize you're spending more energy resisting than considering the actual merits of an idea
+- You feel an immediate urge to do something the moment someone tells you not to do it
+- You find yourself arguing against suggestions just because they feel like commands
+- You notice yourself saying "You can't tell me what to do!" even when the advice is reasonable
+- You make decisions specifically to prove someone wrong rather than because you want to
+- You feel a strong emotional reaction when someone tries to influence your choices
+- You catch yourself doing things you weren't interested in, simply because someone said you shouldn't
+- You defend positions you don't even care about just to maintain your sense of autonomy
+- You realize you're spending more energy resisting than considering the actual merits of an idea
 
 # 3. How Bias Shows Up
 
@@ -55,9 +48,7 @@ Imagine someone tells you "You probably shouldn't eat that cookie—it's too spe
 **Reactance Bias Self-Check:**
 
 1. **The "Because They Said So" Test**: "Am I considering this option primarily because someone suggested I shouldn't do it? Would I still want this if nobody had expressed an opinion?"
-
 2. **The Emotional Reaction Test**: "Did I feel an immediate defensive or resistant response when I received this suggestion or advice? Is my decision driven by emotion rather than logic?"
-
 3. **The Independent Choice Test**: "If I strip away who suggested what and just look at the facts, what would I genuinely prefer to do? Is my current choice authentic or just reactive?"
 
 **Quick Check**: If you answered "yes" to any of these questions, you might be under the influence of reactance bias!
@@ -67,19 +58,19 @@ Imagine someone tells you "You probably shouldn't eat that cookie—it's too spe
 **️ Defense Strategies Against Reactance:**
 
 **Before Making Decisions:**
-• **Pause Before Reacting**: Count to 10 when you feel that immediate "I'll show you!" response rising up
-• **Separate the Message from the Messenger**: Focus on the content of the advice, not who's giving it or how it's delivered
-• **Ask "What Would I Want If Nobody Said Anything?"**: This removes the reactive element and reveals your true preference
+- **Pause Before Reacting**: Count to 10 when you feel that immediate "I'll show you!" response rising up
+- **Separate the Message from the Messenger**: Focus on the content of the advice, not who's giving it or how it's delivered
+- **Ask "What Would I Want If Nobody Said Anything?"**: This removes the reactive element and reveals your true preference
 
 **When Feeling Resistant:**
-• **Explore the Opposite**: Intentionally consider the suggestion openly for 5 minutes—what might you learn?
-• **Use "I" Statements**: Instead of "You can't tell me what to do," try "I need to think about this myself"
-• **Practice Curiosity**: Ask "Why do they think this?" instead of immediately defending your position
+- **Explore the Opposite**: Intentionally consider the suggestion openly for 5 minutes—what might you learn?
+- **Use "I" Statements**: Instead of "You can't tell me what to do," try "I need to think about this myself"
+- **Practice Curiosity**: Ask "Why do they think this?" instead of immediately defending your position
 
 **For Better Decision-Making:**
-• **Delay Major Choices**: When you feel reactance kicking in, wait 24 hours before deciding
-• **Seek Multiple Perspectives**: Talk to neutral third parties who aren't involved in the dynamic
-• **Focus on Your Values**: Make decisions based on your core values and goals, not just resistance to others' opinions
+- **Delay Major Choices**: When you feel reactance kicking in, wait 24 hours before deciding
+- **Seek Multiple Perspectives**: Talk to neutral third parties who aren't involved in the dynamic
+- **Focus on Your Values**: Make decisions based on your core values and goals, not just resistance to others' opinions
 
 **🔑 Advanced Technique**: Keep a "reactance journal" for a week—note when you feel resistant and what triggers it. You'll discover patterns that help you recognize and manage this bias more effectively.
 

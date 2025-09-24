@@ -47,61 +47,41 @@ The Group Attribution Error is when you see one person from a group doing someth
 ## 3.1. Workplace Examples
 
 - **Hiring Decisions**: After one bad experience with a candidate from a particular university, a hiring manager starts assuming all graduates from that university lack the required skills, despite individual variations.
-
 - **Team Performance**: A manager has one difficult experience with a remote team member and concludes that "all remote workers are unproductive," leading to policies that penalize all remote employees.
-
 - **Vendor Relationships**: A company has a single negative experience with a supplier from a specific region and decides to avoid all suppliers from that region, losing potential opportunities.
-
 - **Department Stereotyping**: One marketing team member misses a deadline, and other departments start believing "the marketing department is always late with everything."
-
 - **Cross-Cultural Communication**: After a misunderstanding with an international colleague, someone assumes "people from that country are difficult to work with," affecting future collaborations.
 
 ## 3.2. Daily Life Scenarios
 
 - **Neighborhood Assumptions**: One family moves in and has loud parties, leading neighbors to conclude "everyone from that part of town is disrespectful and noisy."
-
 - **Restaurant Experiences**: A person has one bad meal at a restaurant and declares "this entire chain is terrible," never giving other locations or the same location another chance.
-
 - **Service Provider Generalizations**: After one bad experience with a plumber, someone decides "all plumbers are unreliable and overcharge," affecting future home maintenance decisions.
-
 - **Social Media Behavior**: A few people from a particular demographic share controversial opinions, leading others to believe "everyone in that group thinks that way."
-
 - **Parenting Judgments**: One child from a specific educational background struggles with social skills, and parents assume "all children from that school system have social problems."
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Assumptions**: An investor loses money on one company in a particular sector and decides to avoid all companies in that sector, potentially missing out on profitable opportunities.
-
 - **Banking Relationships**: After one negative experience with a credit union, someone concludes "all credit unions have poor customer service" and limits their financial options.
-
 - **Real Estate Decisions**: A homeowner has one bad experience with a real estate agent from a specific brokerage and assumes "all agents from that company are unprofessional."
-
 - **Consumer Brand Loyalty**: One product from a brand fails, leading to a boycott of all products from that brand regardless of individual quality differences.
-
 - **Insurance Provider Choices**: A claim is denied by one insurance provider, leading someone to believe "all insurance companies are fraudulent" and affecting their coverage decisions.
 
 ## 3.4. Social and Cultural Impact
 
 - **Cultural Stereotyping**: A tourist has one negative interaction with a local while traveling and concludes "people from this country are unfriendly to visitors."
-
 - **Generational Assumptions**: One millennial employee is chronically late to meetings, leading managers to assume "millennials have no work ethic," affecting the entire generation's opportunities.
-
 - **Political Generalizations**: A few vocal members of a political party express extreme views, leading others to believe "everyone in that party holds these extreme beliefs."
-
 - **Professional Field Stereotypes**: One lawyer engages in unethical behavior, reinforcing the belief that "all lawyers are dishonest" for people who hear about the case.
-
 - **Educational Institution Bias**: A few graduates from a particular program struggle in their careers, leading employers to devalue all candidates from that program regardless of individual qualifications.
 
 ## 3.5. Media and Information Processing 📺
 
 - **News Source Distrust**: One misleading story from a news outlet leads people to dismiss all reporting from that source, even accurate information.
-
 - **Social Media Algorithm Effects**: A few posts from a content creator are low quality, leading followers to assume "everything this person creates is worthless."
-
 - **Author Reputation**: One poorly written book by an author leads readers to avoid all their future work, regardless of quality improvements.
-
 - **Movie Studio Judgments**: One disappointing film from a studio leads moviegoers to avoid all future releases from that studio.
-
 - **Academic Research**: One flawed study in a field leads to dismissal of all research in that area, even valid and important work.
 
 # 4. Quick Test
@@ -111,28 +91,21 @@ The Group Attribution Error is when you see one person from a group doing someth
 ### 4.1.1. **Group Attribution Error Awareness Test**
 
 1. **The Generalization Check**: When you encounter someone from a group who behaves in a certain way, do you find yourself assuming others from the same group will behave similarly?
-
 2. **The Stereotype Confirmation Test**: When someone from a group confirms your existing beliefs, do you feel that your "whole theory about that group" has been proven?
-
 3. **The Individual Assessment**: When evaluating people, do you focus more on their group membership than their individual qualities, skills, and circumstances?
-
 4. **The Language Pattern Check**: How often do you catch yourself using absolute terms like "all," "every," "always," or "never" when describing groups of people?
-
 5. **The Counter-Evidence Test**: When you meet someone from a group who doesn't fit your expectations, do you dismiss them as "the exception" or do you reconsider your group assumptions?
 
 ### 4.1.2. **Decision-Making Questions**
 
-6. **Choice Justification**: When making decisions about people (hiring, friendships, partnerships), do you rely on group-based assumptions rather than individual assessment?
-
-7. **Information Seeking**: Do you actively seek out diverse examples from groups or do you form opinions based on limited, often negative, experiences?
-
-8. **Emotional Transfer**: Do you notice that feelings about one person from a group influence your feelings about the entire group?
+1. **Choice Justification**: When making decisions about people (hiring, friendships, partnerships), do you rely on group-based assumptions rather than individual assessment?
+2. **Information Seeking**: Do you actively seek out diverse examples from groups or do you form opinions based on limited, often negative, experiences?
+3. **Emotional Transfer**: Do you notice that feelings about one person from a group influence your feelings about the entire group?
 
 ### 4.1.3. **Social Interaction Patterns**
 
-9. **Pre-Judgment**: Before interacting with someone new, do you form expectations based on their perceived group membership?
-
-10. **Selective Memory**: Do you remember examples that confirm your group beliefs more vividly than those that challenge them?
+1. **Pre-Judgment**: Before interacting with someone new, do you form expectations based on their perceived group membership?
+2. **Selective Memory**: Do you remember examples that confirm your group beliefs more vividly than those that challenge them?
 
 ### 4.1.4. **Scoring And Interpretation**
 

@@ -69,13 +69,9 @@ The Zeigarnik Effect is like that - our brains love to finish what we start! Whe
 ## 4.1. Self-Assessment Questions
 
 1. **The Mental Intrusion Test**: Do unfinished tasks frequently pop into your mind when you're trying to focus on other activities?
-
 2. **The Completion Urgency Check**: Do you feel a strong urge to finish things you've started, even when it's not practical or necessary?
-
 3. **The Sleep Quality Assessment**: Do unfinished tasks or unresolved problems often keep you awake or disrupt your sleep?
-
 4. **The Memory Comparison**: Do you remember details about incomplete tasks much better than completed ones from the same time period?
-
 5. **The Attention Fragmentation Test**: Do you find it difficult to start new tasks because your mind keeps drifting back to unfinished ones?
 
 **Scoring**: If you answered "yes" to three or more questions, the Zeigarnik Effect is significantly influencing your mental processes.

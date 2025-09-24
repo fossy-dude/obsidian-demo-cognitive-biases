@@ -113,9 +113,9 @@ C) Respect for tradition
 ---
 
 **Quick Test Answers:**
-1) B - System justification (assuming the system must be fair because it exists)
-2) B - System justification blaming the victim (ignoring systemic factors in inequality)
-3) B - System justification (defending the status quo rather than examining it critically)
+1. B - System justification (assuming the system must be fair because it exists)
+2. B - System justification blaming the victim (ignoring systemic factors in inequality)
+3. B - System justification (defending the status quo rather than examining it critically)
 
 > "The price of silence is paid by the marginalized, and the cost of comfort is complicity." - Anonymous
 

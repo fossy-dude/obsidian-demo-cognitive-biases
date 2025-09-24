@@ -12,17 +12,12 @@ Imagine you have 10 red marbles and 1 bright yellow marble in a row. Later, when
 
 Watch for these warning signs that the Von Restorff Effect might be influencing your thinking:
 
-• **Disproportionate attention to novelty** - You focus heavily on the newest, loudest, or most unusual option
-
-• **Overvaluing unique features** - You give excessive weight to one standout characteristic while ignoring overall quality
-
-• **Recency bias amplification** - The most recent distinctive event overshadows important patterns or trends
-
-• **Marketing manipulation susceptibility** - You're drawn to products primarily because of flashy packaging or unusual positioning
-
-• **Incomplete information recall** - You remember the "weird" parts of a presentation but miss key practical details
-
-• **Decision-making shortcuts** - You choose options based on what "pops out" rather than systematic evaluation
+- **Disproportionate attention to novelty** - You focus heavily on the newest, loudest, or most unusual option
+- **Overvaluing unique features** - You give excessive weight to one standout characteristic while ignoring overall quality
+- **Recency bias amplification** - The most recent distinctive event overshadows important patterns or trends
+- **Marketing manipulation susceptibility** - You're drawn to products primarily because of flashy packaging or unusual positioning
+- **Incomplete information recall** - You remember the "weird" parts of a presentation but miss key practical details
+- **Decision-making shortcuts** - You choose options based on what "pops out" rather than systematic evaluation
 
 # 3. How Bias Shows Up
 

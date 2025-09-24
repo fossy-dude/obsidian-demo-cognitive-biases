@@ -107,10 +107,10 @@ C) "We've moved far beyond these concepts"
 ---
 
 **Quick Test Answers:**
-1) B - Seeking to understand the historical context rather than judging
-2) B - Being open to wisdom from experience despite changing times
-3) B - Asking about the reasoning behind traditional approaches
-4) B - Looking for enduring insights rather than dismissing based on age
+1. B - Seeking to understand the historical context rather than judging
+2. B - Being open to wisdom from experience despite changing times
+3. B - Asking about the reasoning behind traditional approaches
+4. B - Looking for enduring insights rather than dismissing based on age
 
 > "The past is never dead. It's not even past." - William Faulkner
 

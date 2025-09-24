@@ -12,19 +12,13 @@ Imagine the first number you hear in a negotiation is like dropping an anchor in
 
 **Warning Signs of Anchoring:**
 
-• You keep referring back to the first number, price, or piece of information mentioned
-
-• Your final decision stays suspiciously close to the initial suggestion, even after new information
-
-• You feel resistant to moving far from the original reference point
-
-• You dismiss information that contradicts the first impression or initial data
-
-• In negotiations, you notice both sides clustering around the first offer made
-
-• You judge performance, quality, or value primarily compared to the first example you encountered
-
-• You struggle to imagine alternatives that differ significantly from the initial proposal
+- You keep referring back to the first number, price, or piece of information mentioned
+- Your final decision stays suspiciously close to the initial suggestion, even after new information
+- You feel resistant to moving far from the original reference point
+- You dismiss information that contradicts the first impression or initial data
+- In negotiations, you notice both sides clustering around the first offer made
+- You judge performance, quality, or value primarily compared to the first example you encountered
+- You struggle to imagine alternatives that differ significantly from the initial proposal
 
 # 3. How Bias Shows Up
 
@@ -49,9 +43,7 @@ Imagine the first number you hear in a negotiation is like dropping an anchor in
 **Anchoring Bias Self-Check:**
 
 1. **The Reference Point Test**: "What was the first number, price, or piece of information I encountered about this decision? Am I still thinking about it?"
-
 2. **The Range Test**: "If I ignore the initial information completely, what range of outcomes would I consider reasonable? How different is this from my current thinking?"
-
 3. **The Alternative Sources Test**: "Have I actively sought out different starting points or reference frames from completely independent sources before deciding?"
 
 **Quick Check**: If your answer to question 1 is "yes" and your answers to questions 2 and 3 reveal you haven't explored alternatives, you're likely anchored!
@@ -61,17 +53,17 @@ Imagine the first number you hear in a negotiation is like dropping an anchor in
 **️ Defense Strategies Against Anchoring:**
 
 **Before Making Decisions:**
-• **Set Your Own Anchor First**: Research and establish your own reference points before hearing others' suggestions or seeing posted prices
-• **Use Multiple Starting Points**: Deliberately seek 3-5 different initial references from varied, independent sources
-• **Practice "Anchor Awareness"**: Before each negotiation or major decision, remind yourself to watch for the first number mentioned
+- **Set Your Own Anchor First**: Research and establish your own reference points before hearing others' suggestions or seeing posted prices
+- **Use Multiple Starting Points**: Deliberately seek 3-5 different initial references from varied, independent sources
+- **Practice "Anchor Awareness"**: Before each negotiation or major decision, remind yourself to watch for the first number mentioned
 
 **During Negotiations:**
-• **Counter-Anchor Strategy**: If someone throws out a number first, immediately respond with your own anchor from the opposite end of a reasonable range
-• **Ask "How Did You Arrive at That?"**: Force others to justify their initial positions rather than accepting them as starting points
-• **Take a Break**: Step away after hearing initial offers to let the anchor's influence fade
+- **Counter-Anchor Strategy**: If someone throws out a number first, immediately respond with your own anchor from the opposite end of a reasonable range
+- **Ask "How Did You Arrive at That?"**: Force others to justify their initial positions rather than accepting them as starting points
+- **Take a Break**: Step away after hearing initial offers to let the anchor's influence fade
 
 **For Better Decision-Making:**
-• **Consider the Opposite**: Actively ask "What would I think if the first information had been completely different?"
-• **Use External Standards**: Research industry benchmarks, market rates, or historical data as objective reference points
-• **Sleep on It**: Major decisions benefit from time, which naturally weakens the anchor's psychological grip
+- **Consider the Opposite**: Actively ask "What would I think if the first information had been completely different?"
+- **Use External Standards**: Research industry benchmarks, market rates, or historical data as objective reference points
+- **Sleep on It**: Major decisions benefit from time, which naturally weakens the anchor's psychological grip
 

@@ -73,11 +73,8 @@ Imagine a game where you must predict whether a light will flash red or blue. Yo
 **Self-Assessment Questions:**
 
 1. **The Resource Test**: When allocating limited resources (time, money, attention), do you spread them proportionally or concentrate them where they'll have the most impact?
-
 2. **The Pattern Test**: Do you feel uncomfortable always choosing the same option even when it's statistically the best choice?
-
 3. **The "Fairness" Check**: Do you sometimes make suboptimal choices because it "feels more balanced" or representative?
-
 4. **The Maximization Test**: Given multiple options with known success rates, do you try to match the success rates or always pick the highest?
 
 **Decision Review Checklist:**

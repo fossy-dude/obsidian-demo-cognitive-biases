@@ -54,13 +54,9 @@ Exaggerated expectation is when we expect things to be much more extreme or dram
 ## 4.1. Self-Assessment Questions
 
 1. **The Extremity Check**: When you think about an upcoming event or decision, do you find yourself imagining either perfect success or complete failure? Rate your typical expectations on a scale of 1-10, where 1 is completely realistic and 10 is extremely exaggerated.
-
 2. **The Reality Test**: Look back at the last 5 similar situations you've experienced. How did they actually turn out compared to what you expected? Be honest about the gap between your predictions and reality.
-
 3. **The Middle Ground Challenge**: Can you name three realistic, moderate outcomes that are more likely than the extreme ones you're imagining? If you struggle to think of middle-ground scenarios, you're probably experiencing exaggerated expectations.
-
 4. **The Emotional Impact**: How often do you feel significantly disappointed or surprised by outcomes? If it's frequent, your expectations may be unrealistic.
-
 5. **The Friend Test**: If your friend described the same situation with the same expectations you have, would you think they were being realistic or overly dramatic?
 
 **Scoring**: If you regularly imagine extreme outcomes, feel frequently disappointed, or struggle to identify moderate scenarios, you're likely experiencing exaggerated expectations.

@@ -106,9 +106,9 @@ C) Both the good and bad aspects of your relationship
 ---
 
 **Quick Test Answers:**
-1) B - Your failures, criticisms, and difficult times (negative mood triggers negative memories)
-2) A - "I've always had good luck with investments" (positive mood triggers overconfidence)
-3) B - All the conflicts and problems you've had (negative emotional state focuses on negative memories)
+1. B - Your failures, criticisms, and difficult times (negative mood triggers negative memories)
+2. A - "I've always had good luck with investments" (positive mood triggers overconfidence)
+3. B - All the conflicts and problems you've had (negative emotional state focuses on negative memories)
 
 > "Your memory is a narrative you construct based on how you feel right now. The same events can be remembered as comedy, tragedy, or romance depending on your emotional state." - Unknown
 

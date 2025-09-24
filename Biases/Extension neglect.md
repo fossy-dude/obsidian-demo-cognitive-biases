@@ -54,13 +54,9 @@ Extension neglect is when people make big decisions based on only a few examples
 ## 4.1. Self-Assessment Questions
 
 1. **The Sample Size Question**: When you made your last important decision, how many examples or how much data did you actually consider? Was it 3, 10, 100, or 1000? Be honest about whether your sample size was adequate.
-
 2. **The Coin Flip Test**: If you flipped a coin 3 times and got heads each time, how confident would you be that it's not a fair coin? Now ask yourself: would you be more confident after 10 heads in a row? The difference in confidence shows how sample size affects judgment.
-
 3. **The Randomness Challenge**: Could the pattern you're seeing reasonably occur by random chance? If you're not sure, you're probably neglecting to consider sample size and probability.
-
 4. **The Representative Test**: How similar is your sample to the larger group you're making conclusions about? If you tested something only with college students, can you really apply those findings to the general population?
-
 5. **The Time Frame Question**: Have you observed this pattern over a meaningful time period, or are you drawing conclusions from a very short observation window?
 
 **Scoring**: If you frequently make decisions based on small samples, don't consider statistical significance, or struggle to assess whether patterns could be random, you're likely experiencing extension neglect.

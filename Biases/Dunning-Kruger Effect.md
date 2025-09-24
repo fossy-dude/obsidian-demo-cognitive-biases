@@ -49,13 +49,9 @@ The Dunning-Kruger Effect is like that - when people know just a little bit abou
 ## 4.1. Self-Assessment Questions
 
 1. **The Knowledge Check**: Can you explain your area of "expertise" to someone who knows nothing about it? If not, you might be overestimating your knowledge.
-
 2. **The Expert Test**: Have you sought feedback from people with 10+ years more experience than you? If you avoid this, why?
-
 3. **The Failure Analysis**: When you fail at something in your area of confidence, do you blame external factors or examine your own knowledge gaps?
-
 4. **The Prediction Challenge**: Can you accurately predict what challenges you'll face in the next level of skill development?
-
 5. **The Teaching Test**: Could you create a comprehensive curriculum to teach others from beginner to expert level?
 
 **Scoring**: If you answered "no" or "I don't know" to more than two questions, you may be experiencing the Dunning-Kruger Effect.

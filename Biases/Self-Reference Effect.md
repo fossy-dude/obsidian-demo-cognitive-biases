@@ -11,12 +11,12 @@ Think about how much easier it is to remember your friend's birthday compared to
 # 2. Recognizing the Bias
 
 **Warning Signs:**
-• You find yourself gravitating toward information that relates to your hobbies, background, or experiences
-• You struggle to remember facts or concepts that seem unrelated to your life
-• You automatically tune out when topics don't immediately connect to your interests
-• You notice dramatic differences in how well you retain personally relevant vs. abstract information
-• You find yourself saying "I can relate to that" or "That reminds me of when I..." frequently
-• You have trouble engaging with perspectives from very different life experiences than your own
+- You find yourself gravitating toward information that relates to your hobbies, background, or experiences
+- You struggle to remember facts or concepts that seem unrelated to your life
+- You automatically tune out when topics don't immediately connect to your interests
+- You notice dramatic differences in how well you retain personally relevant vs. abstract information
+- You find yourself saying "I can relate to that" or "That reminds me of when I..." frequently
+- You have trouble engaging with perspectives from very different life experiences than your own
 
 # 3. How Bias Shows Up
 
@@ -37,24 +37,22 @@ Platforms exploit this bias by showing content similar to what you've engaged wi
 **Self-Reference Bias Check:**
 
 1. **Memory Gap Test:** "Can I recall detailed information about topics unrelated to my personal interests or experiences as easily as those that connect to my life?"
-
 2. **Perspective Diversity Check:** "Am I actively seeking out and remembering viewpoints from people whose backgrounds and experiences differ significantly from mine?"
-
 3. **Information Diet Audit:** "What percentage of the information I consume and retain relates directly to my existing interests versus expanding my knowledge into unfamiliar territories?"
 
 # 5. How to Counteract
 
 **Leverage the Bias for Learning:**
-• **Create Personal Bridges:** When learning new topics, actively look for connections to your experiences, then use those as stepping stones to explore deeper
-• **Use Analogies:** Relate abstract concepts to familiar situations from your life to improve initial understanding and retention
+- **Create Personal Bridges:** When learning new topics, actively look for connections to your experiences, then use those as stepping stones to explore deeper
+- **Use Analogies:** Relate abstract concepts to familiar situations from your life to improve initial understanding and retention
 
 ** Expand Beyond Personal Relevance:**
-• **The 70/30 Rule:** Aim for 70% personally relevant content and 30% completely outside your typical interests
-• **Perspective Rotation:** Regularly consume content from people with different backgrounds, professions, and life experiences
-• **Abstract Practice:** Deliberately study topics with no obvious personal connection to strengthen your general learning abilities
+- **The 70/30 Rule:** Aim for 70% personally relevant content and 30% completely outside your typical interests
+- **Perspective Rotation:** Regularly consume content from people with different backgrounds, professions, and life experiences
+- **Abstract Practice:** Deliberately study topics with no obvious personal connection to strengthen your general learning abilities
 
 **📝 Active Counter-Strategies:**
-• **Note-Taking Method:** For unfamiliar topics, write down why this information might matter to someone else, even if not to you
-• **Teach Others:** Explaining concepts you find boring to someone who finds them interesting helps you see new angles
-• **Question Your Gaps:** When you notice yourself losing focus, ask "What would someone passionate about this topic want me to understand?"
+- **Note-Taking Method:** For unfamiliar topics, write down why this information might matter to someone else, even if not to you
+- **Teach Others:** Explaining concepts you find boring to someone who finds them interesting helps you see new angles
+- **Question Your Gaps:** When you notice yourself losing focus, ask "What would someone passionate about this topic want me to understand?"
 

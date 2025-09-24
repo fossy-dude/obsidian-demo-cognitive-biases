@@ -54,13 +54,9 @@ Escalation of commitment is like that—when people keep putting more time, mone
 ## 4.1. Self-Assessment Questions
 
 1. **The Sunk Cost Test**: Would you continue this investment if you hadn't already spent anything on it? If the answer is no, you're likely escalating commitment.
-
 2. **The Fresh Perspective Test**: If a friend came to you with this exact situation (knowing what you know but having no emotional investment), what would you advise them to do?
-
 3. **The Future Focus Test**: Are you making decisions based on future potential or past investments? Be honest about which one is driving your choices.
-
 4. **The Evidence Test**: What new information would make you stop this investment? If you can't think of anything, you might be too committed.
-
 5. **The 24-Hour Rule**: If you were forced to stop this investment for 24 hours and then reconsider with fresh eyes, what would you decide?
 
 **Scoring**: If you find yourself making excuses or feeling defensive about these questions, you're likely experiencing escalation of commitment.

@@ -52,13 +52,9 @@ Self-licensing is when we do something good and then give ourselves permission t
 ## 4.1. Self-Assessment Questions
 
 1. **The Justification Test**: When you're about to do something you know isn't ideal, do you find yourself listing recent good behaviors to justify it?
-
 2. **The Balance Sheet Question**: Do you mentally keep track of your "good" and "bad" behaviors, treating them like credits and debits?
-
 3. **The Entitlement Check**: Do you ever think "I deserve this" when considering doing something that goes against your values or goals?
-
 4. **The Unrelated Connection Test**: Do you use good behavior in one area of life to justify bad behavior in a completely different area?
-
 5. **The Pre-Mediation Analysis**: Do you sometimes do good things primarily to give yourself permission to do something you want but know isn't right?
 
 **Scoring**: If you answered "yes" to more than two questions, you may be experiencing self-licensing in your decision-making.

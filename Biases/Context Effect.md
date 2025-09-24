@@ -52,13 +52,9 @@ The Context Effect is like that - our brains can't help but compare things to wh
 ## 4.1. Self-Assessment Questions
 
 1. **The Isolation Test**: If you encountered this option completely alone, with nothing to compare it to, would you still feel the same way about it?
-
 2. **The Sequence Challenge**: Would your opinion change if you experienced this same thing in a different order or setting?
-
 3. **The Absolute Value Question**: Can you describe the value of this option without using comparative language (better, worse, cheaper, more expensive, etc.)?
-
 4. **The Context Reset**: If you took a break from this decision-making environment and came back later with fresh eyes, would you make the same choice?
-
 5. **The Alternative Universe Test**: Imagine this option existed in a completely different context - would you still view it the same way?
 
 **Scoring**: If you answered "no" to more than two questions, the Context Effect is likely influencing your judgment.

@@ -105,9 +105,9 @@ C) Assume it's original since it feels so natural to you
 ---
 
 **Quick Test Answers:**
-1) B - You experienced cryptomnesia - your brain remembered the content but forgot the source
-2) B - "Oh, I must have heard it somewhere and forgotten" (acknowledging the memory error)
-3) B - Try to search for the source to give proper credit (responsible approach to uncertain origins)
+1. B - You experienced cryptomnesia - your brain remembered the content but forgot the source
+2. B - "Oh, I must have heard it somewhere and forgotten" (acknowledging the memory error)
+3. B - Try to search for the source to give proper credit (responsible approach to uncertain origins)
 
 > "Originality is nothing but judicious imitation. The most original writers borrowed one from another." - Voltaire
 

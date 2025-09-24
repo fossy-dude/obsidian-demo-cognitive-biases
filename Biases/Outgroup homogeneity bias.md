@@ -50,9 +50,7 @@ Imagine you're in a big classroom with different colored shirts. All your friend
 **Self-Check Questions:**
 
 1. **The Variety Test**: When you think about your friend group vs. another social group, do you notice more variety in your friends' personalities, interests, and opinions?
-
 2. **The Individual Test**: Can you name 3 specific, different individuals from another group (different roles, preferences, or opinions) as easily as you can from your own group?
-
 3. **The Surprise Test**: When someone from another group acts in a way that surprises you, do you think "they're different from the others" or "I should learn more about this group"?
 
 **Scoring**:

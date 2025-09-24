@@ -106,9 +106,9 @@ C) It's staying stable
 ---
 
 **Quick Test Answers:**
-1) B - You're 2% worse off (4% raise - 6% inflation = -2% real change)
-2) B - It stayed about the same in real terms (nominal gain roughly matched inflation)
-3) B - It's losing value over time (1% return - 2% inflation = -1% real return)
+1. B - You're 2% worse off (4% raise - 6% inflation = -2% real change)
+2. B - It stayed about the same in real terms (nominal gain roughly matched inflation)
+3. B - It's losing value over time (1% return - 2% inflation = -1% real return)
 
 > "Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair." - Sam Ewing
 

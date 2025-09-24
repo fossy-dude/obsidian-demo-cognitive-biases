@@ -12,19 +12,13 @@ The appeal to probability fallacy is like thinking that if there's even a tiny c
 
 *Watch for these warning signs that appeal to probability fallacy might be influencing your thinking:*
 
-• **Worst-case assumption** - You prepare for rare negative outcomes as if they're likely to occur
-
-• **Possibility-to-certainty leap** - You treat "could happen" as "will happen" in your planning
-
-• **Disaster overpreparation** - You spend excessive resources guarding against unlikely scenarios
-
-• **Statistical ignorance** - You ignore actual probability data and focus on remote possibilities
-
-• **Anxiety-driven planning** - Your decisions are guided more by fear than by realistic risk assessment
-
-• **Murphy's Law mindset** - You operate as if anything that can go wrong inevitably will go wrong
-
-• **Risk inflation** - You consistently overestimate the likelihood of negative events occurring
+- **Worst-case assumption** - You prepare for rare negative outcomes as if they're likely to occur
+- **Possibility-to-certainty leap** - You treat "could happen" as "will happen" in your planning
+- **Disaster overpreparation** - You spend excessive resources guarding against unlikely scenarios
+- **Statistical ignorance** - You ignore actual probability data and focus on remote possibilities
+- **Anxiety-driven planning** - Your decisions are guided more by fear than by realistic risk assessment
+- **Murphy's Law mindset** - You operate as if anything that can go wrong inevitably will go wrong
+- **Risk inflation** - You consistently overestimate the likelihood of negative events occurring
 
 # 3. How Bias Shows Up
 
@@ -59,13 +53,9 @@ The appeal to probability fallacy is like thinking that if there's even a tiny c
 *Use these questions to check if appeal to probability fallacy might be affecting your thinking:*
 
 1. **Probability Check**: "Am I treating this possibility as a likelihood? What are the actual statistical odds of this happening?"
-
 2. **Risk Assessment**: "Am I preparing for a remote possibility as if it's a probable outcome? What's the realistic chance of this occurring?"
-
 3. **Resource Allocation**: "Am I spending time, money, or energy on guarding against something that's very unlikely to happen?"
-
 4. **Perspective Balance**: "Am I focusing on potential negative outcomes while ignoring more likely positive or neutral outcomes?"
-
 5. **Pattern Recognition**: "Do I frequently act as if worst-case scenarios are inevitable rather than possible?"
 
 # 5. How to Counteract

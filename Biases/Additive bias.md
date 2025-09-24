@@ -12,25 +12,16 @@ Imagine you're trying to make your LEGO tower taller, and you just keep adding m
 
 **Warning Signs of Additive Bias:**
 
-• Your first instinct when facing a problem is "what can we add?" rather than "what can we remove?"
-
-• You suggest adding new features, steps, or processes without considering simplification
-
-• You feel uncomfortable with the idea of removing elements that exist, even if they're not essential
-
-• You believe more complexity equals more sophistication or value
-
-• You rarely ask "what would happen if we took this away?" when evaluating systems
-
-• You notice that your solutions tend to increase in size, scope, or complexity over time
-
-• You feel that adding something demonstrates more effort or contribution than removing something
-
-• You overlook simple solutions because they don't feel "substantial enough"
-
-• You create new rules or procedures instead of eliminating existing ones that are problematic
-
-• You judge proposals based on how much they add rather than how much they improve through simplification
+- Your first instinct when facing a problem is "what can we add?" rather than "what can we remove?"
+- You suggest adding new features, steps, or processes without considering simplification
+- You feel uncomfortable with the idea of removing elements that exist, even if they're not essential
+- You believe more complexity equals more sophistication or value
+- You rarely ask "what would happen if we took this away?" when evaluating systems
+- You notice that your solutions tend to increase in size, scope, or complexity over time
+- You feel that adding something demonstrates more effort or contribution than removing something
+- You overlook simple solutions because they don't feel "substantial enough"
+- You create new rules or procedures instead of eliminating existing ones that are problematic
+- You judge proposals based on how much they add rather than how much they improve through simplification
 
 # 3. How Bias Shows Up
 
@@ -63,9 +54,7 @@ Imagine you're trying to make your LEGO tower taller, and you just keep adding m
 **Additive Bias Self-Check:**
 
 1. **The Subtraction Test**: "When I considered solutions to my last few problems, did I ever seriously ask 'what can I remove or simplify?' or did I only think about what to add?"
-
 2. **The Complexity Test**: "Have my recent solutions made things more complex, larger, or more complicated? Could the same problems have been solved by removing something instead?"
-
 3. **The 'Why Not Less?' Test**: "When someone suggests a simpler solution with fewer elements, do I find myself thinking it's not enough or not substantial enough, even if it would work?"
 
 **Quick Assessment**: If you primarily think in terms of adding elements and rarely consider subtraction, or if you feel that more complex solutions are inherently better, you're likely influenced by additive bias.
@@ -80,21 +69,21 @@ Imagine you're trying to make your LEGO tower taller, and you just keep adding m
 **️ Strategies to Combat Additive Bias:**
 
 **Immediate Actions (Start Today):**
-• **Practice the "Subtraction First" Rule**: Before considering additions, always ask "what can we remove or simplify?"
-• **Implement "One In, One Out"**: When adding something new, commit to removing something existing
-• **Conduct Complexity Audits**: Regularly review your systems, processes, and possessions to identify unnecessary elements
-• **Challenge the "More is Better" Assumption**: Ask "would this be simpler and still work?" for every addition
+- **Practice the "Subtraction First" Rule**: Before considering additions, always ask "what can we remove or simplify?"
+- **Implement "One In, One Out"**: When adding something new, commit to removing something existing
+- **Conduct Complexity Audits**: Regularly review your systems, processes, and possessions to identify unnecessary elements
+- **Challenge the "More is Better" Assumption**: Ask "would this be simpler and still work?" for every addition
 
 **Short-term Improvements (This Week):**
-• **Study Minimalist Principles**: Learn from minimalist design, lifestyle, and business approaches
-• **Practice Constraint-Based Thinking**: Set artificial limits (e.g., "solve this with half the resources") to force creative subtraction
-• **Seek Subtractive Examples**: Look for cases where removing elements improved outcomes
-• **Value Simplicity Publicly**: Praise and reward simplification efforts in yourself and others
+- **Study Minimalist Principles**: Learn from minimalist design, lifestyle, and business approaches
+- **Practice Constraint-Based Thinking**: Set artificial limits (e.g., "solve this with half the resources") to force creative subtraction
+- **Seek Subtractive Examples**: Look for cases where removing elements improved outcomes
+- **Value Simplicity Publicly**: Praise and reward simplification efforts in yourself and others
 
 **Long-term Solutions (Ongoing):**
-• **Develop a "Subtraction Mindset"**: Train yourself to see subtraction as equally valid and valuable as addition
-• **Build Systems for Regular Simplification**: Schedule regular reviews to remove unnecessary elements from all areas of life
-• **Study Success Cases**: Research examples where simplicity outperformed complexity (e.g., successful minimalist companies, elegant solutions)
-• **Create Cultural Change**: Encourage teams and organizations to value simplification and reward subtractive thinking
-• **Practice Mindful Consumption**: Before acquiring anything new, ask what you can remove to make space
+- **Develop a "Subtraction Mindset"**: Train yourself to see subtraction as equally valid and valuable as addition
+- **Build Systems for Regular Simplification**: Schedule regular reviews to remove unnecessary elements from all areas of life
+- **Study Success Cases**: Research examples where simplicity outperformed complexity (e.g., successful minimalist companies, elegant solutions)
+- **Create Cultural Change**: Encourage teams and organizations to value simplification and reward subtractive thinking
+- **Practice Mindful Consumption**: Before acquiring anything new, ask what you can remove to make space
 

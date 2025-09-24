@@ -12,19 +12,13 @@ Attentional bias is like having a special filter in your brain that makes you no
 
 *Watch for these warning signs that attentional bias might be influencing your perception:*
 
-• **Selective noticing** - You consistently spot certain details while missing others equally important
-
-• **Pattern fixation** - You see the same types of problems, opportunities, or threats repeatedly
-
-• **Confirmation seeking** - Your attention gravitates toward information that supports what you already believe
-
-• **Recent event focus** - You notice things related to something you just experienced or learned about
-
-• **Personal relevance radar** - You immediately spot anything connected to your current concerns, interests, or goals
-
-• **Blind spot creation** - You consistently miss information outside your area of focus or expertise
-
-• **Frequency illusion** - You feel like certain events or patterns are happening more often than they actually are
+- **Selective noticing** - You consistently spot certain details while missing others equally important
+- **Pattern fixation** - You see the same types of problems, opportunities, or threats repeatedly
+- **Confirmation seeking** - Your attention gravitates toward information that supports what you already believe
+- **Recent event focus** - You notice things related to something you just experienced or learned about
+- **Personal relevance radar** - You immediately spot anything connected to your current concerns, interests, or goals
+- **Blind spot creation** - You consistently miss information outside your area of focus or expertise
+- **Frequency illusion** - You feel like certain events or patterns are happening more often than they actually are
 
 # 3. How Bias Shows Up
 
@@ -52,9 +46,7 @@ Attentional bias is like having a special filter in your brain that makes you no
 *Use these questions to check if attentional bias might be affecting your thinking:*
 
 1. **Attention Audit**: "What am I consistently noticing or focusing on? What might I be missing as a result?"
-
 2. **Perspective Check**: "If someone with different priorities, background, or concerns looked at this same situation, what would they notice that I might be overlooking?"
-
 3. **Recent Influence**: "Has something I recently learned, experienced, or been thinking about made me more likely to notice certain patterns or details?"
 
 # 5. How to Counteract

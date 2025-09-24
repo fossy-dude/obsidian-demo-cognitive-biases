@@ -10,21 +10,14 @@ The Availability Heuristic is when we judge how likely something is based on how
 
 # 2. Recognizing the Bias
 
-• You base decisions on the first examples that come to mind
-
-• Recent news stories heavily influence your perception of risk
-
-• You overestimate the likelihood of dramatic events (plane crashes, lottery wins)
-
-• You judge entire groups based on a few memorable encounters
-
-• You think problems are more common when you've just experienced them
-
-• Media coverage makes you believe certain events happen more often than they do
-
-• You recall vivid, emotional memories more easily than routine experiences
-
-• You assume patterns from small samples of recent experiences
+- You base decisions on the first examples that come to mind
+- Recent news stories heavily influence your perception of risk
+- You overestimate the likelihood of dramatic events (plane crashes, lottery wins)
+- You judge entire groups based on a few memorable encounters
+- You think problems are more common when you've just experienced them
+- Media coverage makes you believe certain events happen more often than they do
+- You recall vivid, emotional memories more easily than routine experiences
+- You assume patterns from small samples of recent experiences
 
 # 3. How Bias Shows Up
 
@@ -56,9 +49,7 @@ The Availability Heuristic is when we judge how likely something is based on how
 Ask yourself these three questions when making decisions:
 
 1. **Am I basing this decision mainly on what I can easily remember?** Consider whether recent or vivid experiences are overshadowing the bigger picture.
-
 2. **What examples am I NOT thinking of?** Actively seek out data, statistics, or experiences that contradict your immediate gut reaction.
-
 3. **Is this memory representative of the whole situation?** Question whether your most memorable examples are actually typical or just dramatic outliers.
 
 # 5. How to Counteract

@@ -54,13 +54,9 @@ Sexual overperception bias is like that - when someone is friendly or polite, we
 ## 4.1. Self-Assessment Questions
 
 1. **The Baseline Behavior Test**: How does this person treat other people in similar situations? If they're equally friendly to everyone, you might be overinterpreting their normal behavior.
-
 2. **The Reciprocity Reality Check**: Have you made your interest clear, and if so, how have they responded? If they haven't reciprocated your advances or interest, they likely don't share your feelings.
-
 3. **The Context Challenge**: Would you interpret this behavior the same way if it came from someone you're not attracted to? If not, you might be projecting your own desires onto their actions.
-
 4. **The Professional Filter**: If this happened in a professional setting, would you still see it as romantic interest? If your answer changes based on context, examine your assumptions.
-
 5. **The Direct Communication Test**: Have you directly asked about their intentions, or are you making assumptions based on indirect signals? Clear communication prevents most misinterpretations.
 
 **Scoring**: If you answered "I'm not sure" or had to think hard about more than two questions, you may be experiencing sexual overperception bias.

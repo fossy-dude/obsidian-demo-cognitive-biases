@@ -12,25 +12,16 @@ Imagine your brain is like a computer with too many tabs open at once—when you
 
 **Warning Signs of Absent-mindedness:**
 
-• You frequently walk into rooms and forget why you went there
-
-• You misplace everyday items (keys, phone, glasses) multiple times a day
-
-• You forget important appointments or meetings despite having them on your calendar
-
-• You start tasks and get distracted before finishing them
-
-• You have trouble focusing on conversations because your mind wanders
-
-• You forget names of people you've met recently
-
-• You miss important details in instructions or conversations
-
-• You find yourself asking "Did I already tell you this?" or "Have we talked about this before?"
-
-• You rely heavily on reminders, lists, and alarms to function daily
-
-• You feel frustrated by your own forgetfulness, especially with routine tasks
+- You frequently walk into rooms and forget why you went there
+- You misplace everyday items (keys, phone, glasses) multiple times a day
+- You forget important appointments or meetings despite having them on your calendar
+- You start tasks and get distracted before finishing them
+- You have trouble focusing on conversations because your mind wanders
+- You forget names of people you've met recently
+- You miss important details in instructions or conversations
+- You find yourself asking "Did I already tell you this?" or "Have we talked about this before?"
+- You rely heavily on reminders, lists, and alarms to function daily
+- You feel frustrated by your own forgetfulness, especially with routine tasks
 
 # 3. How Bias Shows Up
 
@@ -64,9 +55,7 @@ Imagine your brain is like a computer with too many tabs open at once—when you
 **Absent-mindedness Self-Check:**
 
 1. **The Frequency Test**: "How many times this week have I forgotten something important that I should have remembered? (More than 3-4 times might indicate a pattern)"
-
 2. **The Daily Impact Test**: "Has my forgetfulness caused me to be late, miss appointments, or create extra work for myself or others in the past month?"
-
 3. **The Multiple Reminder Test**: "Do I rely on multiple systems (phone alarms, sticky notes, calendar alerts, reminders from others) just to remember basic daily tasks?"
 
 **Quick Assessment**: If you answered "yes" to at least two of these questions, absent-mindedness is likely affecting your daily functioning. The more yes answers, the more it may be impacting your quality of life and productivity.
@@ -81,21 +70,21 @@ Imagine your brain is like a computer with too many tabs open at once—when you
 **️ Strategies to Combat Absent-mindedness:**
 
 **Immediate Actions (Start Today):**
-• **Establish a "Launch Pad"**: Designate one spot for essential items (keys, wallet, phone) and use it consistently
-• **Use the "Doorway Method"**: Mentally pause at every doorway to ask "What am I supposed to be doing right now?"
-• **Implement the "Two-Minute Rule"**: If a task takes less than two minutes, do it immediately rather than putting it off
-• **Set Multiple Reminders**: Use phone alerts, calendar notifications, and physical sticky notes for important events
+- **Establish a "Launch Pad"**: Designate one spot for essential items (keys, wallet, phone) and use it consistently
+- **Use the "Doorway Method"**: Mentally pause at every doorway to ask "What am I supposed to be doing right now?"
+- **Implement the "Two-Minute Rule"**: If a task takes less than two minutes, do it immediately rather than putting it off
+- **Set Multiple Reminders**: Use phone alerts, calendar notifications, and physical sticky notes for important events
 
 **Short-term Improvements (This Week):**
-• **Create Memory Anchors**: Link new information to familiar concepts or create vivid mental images
-• **Practice Mindful Transitions**: Take 3 deep breaths between tasks to reset your attention
-• **Use External Brains**: Leverage apps, notebooks, and voice memos to offload memory demands
-• **Establish Routines**: Create consistent daily patterns that become automatic and require less conscious thought
+- **Create Memory Anchors**: Link new information to familiar concepts or create vivid mental images
+- **Practice Mindful Transitions**: Take 3 deep breaths between tasks to reset your attention
+- **Use External Brains**: Leverage apps, notebooks, and voice memos to offload memory demands
+- **Establish Routines**: Create consistent daily patterns that become automatic and require less conscious thought
 
 **Long-term Solutions (Ongoing):**
-• **Improve Sleep Quality**: 7-9 hours of quality sleep significantly enhances memory and attention
-• **Practice Single-Tasking**: Focus on one thing at a time instead of multitasking
-• **Regular Exercise**: Physical activity improves cognitive function and memory retention
-• **Stress Management**: High stress levels dramatically increase absent-mindedness—meditation, deep breathing, and regular breaks help
-• **Consider Professional Help**: If absent-mindedness significantly impacts your life, consult with a healthcare provider to rule out underlying conditions
+- **Improve Sleep Quality**: 7-9 hours of quality sleep significantly enhances memory and attention
+- **Practice Single-Tasking**: Focus on one thing at a time instead of multitasking
+- **Regular Exercise**: Physical activity improves cognitive function and memory retention
+- **Stress Management**: High stress levels dramatically increase absent-mindedness—meditation, deep breathing, and regular breaks help
+- **Consider Professional Help**: If absent-mindedness significantly impacts your life, consult with a healthcare provider to rule out underlying conditions
 

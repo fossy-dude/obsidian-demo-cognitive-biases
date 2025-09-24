@@ -52,13 +52,9 @@ The Congruence Bias is like that - when we have an idea about why something happ
 ## 4.1. Self-Assessment Questions
 
 1. **The Alternative Test**: When you have a theory about something, can you list at least three other possible explanations that could also be true?
-
 2. **The Disconfirmation Challenge**: Do you actively look for evidence that would prove your theory wrong, or only evidence that proves it right?
-
 3. **The Open-Mind Check**: When someone suggests an alternative explanation, do you feel defensive or curious about their perspective?
-
 4. **The Multiple Testing Question**: Do you design tests that could potentially falsify your hypothesis, or only tests that confirm it?
-
 5. **The Devil's Advocate**: Can you argue against your own position with the same enthusiasm you argue for it?
 
 **Scoring**: If you answered "no" to more than two questions, the Congruence Bias may be limiting your problem-solving effectiveness.

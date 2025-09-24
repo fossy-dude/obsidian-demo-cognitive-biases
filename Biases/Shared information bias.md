@@ -31,31 +31,22 @@ Shared information bias is like that - when groups spend all their time discussi
 ## 3.1. Workplace Examples
 
 - **Project Planning Meetings**: The team spends hours discussing the obvious risks everyone already knows about (budget constraints, timeline issues) while glossing over the unique technical challenges that only the engineers understand
-
 - **Hiring Decisions**: Interviewers focus on the resume qualifications everyone can see (education, years of experience) while neglecting to discuss the unique cultural fit insights each interviewer gathered during their conversations
-
 - **Strategy Sessions**: Leadership discusses industry trends that everyone read in the same report, ignoring the market intelligence gathered by individual team members from their specific networks
-
 - **Crisis Management**: The team dwells on the obvious problems everyone can see (customer complaints, media attention) while failing to share the unique root cause information discovered by different investigators
 
 ## 3.2. Daily Life Scenarios
 
 - **Family Vacation Planning**: Everyone talks about the popular destinations they all know about, while the one family member who researched unique, off-the-beaten-path locations can't get a word in
-
 - **Group Purchasing Decisions**: Friends discussing a car purchase focus on the brand reputation and styling everyone knows, while ignoring the specific mechanical concerns raised by the friend who actually knows about cars
-
 - **Restaurant Selection**: A group spends all their time discussing restaurants they've all been to, while the person who discovered a great new place can't steer the conversation there
-
 - **Health Decisions**: Family members discuss the obvious lifestyle changes everyone knows about (eat better, exercise more) while ignoring the specific medical research one member has done
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Committee**: The board focuses on the well-publicized market risks everyone reads in the financial news, while neglecting the unique industry insights gathered by different analysts
-
 - **Family Budget Planning**: The family discusses the obvious expenses everyone knows about (mortgage, utilities) while ignoring the specific tax deductions or investment opportunities only one family member researched
-
 - **Business Partnership**: Partners discuss the general market conditions everyone is aware of, while failing to share the specific competitive intelligence each has gathered from their respective networks
-
 - **Real Estate Investment**: The investment group focuses on the neighborhood statistics everyone can look up online, while ignoring the specific local development knowledge one member has from living in the area
 
 # 4. Quick Test
@@ -63,13 +54,9 @@ Shared information bias is like that - when groups spend all their time discussi
 ## 4.1. Self-Assessment Questions
 
 1. **The Novelty Test**: How much time in your last group discussion was spent on information that at least one person didn't know before the meeting? (Less than 20% indicates bias)
-
 2. **The Expert Utilization**: Did the person(s) with unique expertise or specialized knowledge get adequate airtime, or were they interrupted or their contributions minimized?
-
 3. **The Echo Detection**: How many times did you hear the same information repeated by different group members without adding new insights? (More than 3-4 times suggests bias)
-
 4. **The Decision Quality**: After the decision was made, did you discover important information that should have been considered but wasn't discussed?
-
 5. **The Minority Voice**: Were perspectives that differed from the group consensus thoroughly explored, or were they quickly dismissed or ignored?
 
 **Scoring**: If you answered "yes" to more than two of these questions, your group likely experienced shared information bias.

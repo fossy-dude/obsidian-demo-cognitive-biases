@@ -69,13 +69,9 @@ The Worse-than-average Effect is like that - when something feels difficult, we 
 ## 4.1. Self-Assessment Questions
 
 1. **The Reality Check**: When you struggle with something, do you immediately assume you're bad at it, or do you consider whether the task is inherently difficult for everyone?
-
 2. **The Comparison Test**: Do you frequently compare yourself to experts or exceptionally talented people rather than to peers at your level?
-
 3. **The Success Pattern**: When you succeed at something challenging, do you credit luck or ease of the task, or do you acknowledge your own capability?
-
 4. **The Feedback Gap**: Is there a significant difference between how you rate your abilities and how others rate your abilities?
-
 5. **The Avoidance Pattern**: Do you avoid activities or opportunities because you believe you're "not good enough," even when you have average or above-average skills?
 
 **Scoring**: If you answered "yes" to three or more questions, you may be experiencing the Worse-than-average Effect.

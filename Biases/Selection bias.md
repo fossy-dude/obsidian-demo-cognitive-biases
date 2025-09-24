@@ -52,13 +52,9 @@ Selection bias is like that - when we only look at or listen to certain people o
 ## 4.1. Self-Assessment Questions
 
 1. **The Diversity Check**: When you gather information or opinions, do you actively seek out different perspectives, or do you mostly talk to people similar to yourself?
-
 2. **The Missing Voices Question**: Can you identify groups of people who might be affected by your decision but aren't represented in your information gathering?
-
 3. **The Convenience Challenge**: Are you only using information that's easy to get, rather than seeking out harder-to-find but potentially more valuable data?
-
 4. **The Sample Size Test**: How many people or examples are you basing your conclusions on? Is this number large enough to be meaningful?
-
 5. **The Self-Selection Test**: Did the people or data you're looking at choose to be included, and if so, how might that make them different from others?
 
 **Scoring**: If you answered "yes" to more than two questions, you may be experiencing selection bias in your decision-making process.

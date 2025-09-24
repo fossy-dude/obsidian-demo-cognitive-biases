@@ -33,37 +33,25 @@ Source confusion is like when your memories get mixed up with what other people 
 ## 3.1. Workplace Examples
 
 - **Meeting Memory Mix-ups**: After a team meeting, you remember decisions being made a certain way, but later realize your memory was influenced by a colleague's strong opinion expressed afterward, not what actually happened in the meeting
-
 - **Project Recall Confusion**: You claim credit for an idea you're sure you originated, only to discover you read it in a report or email and internalized it as your own thought
-
 - **Performance Review Distortion**: During annual reviews, you remember specific achievements or failures differently than documented, having incorporated feedback from multiple sources into your original memory
-
 - **Client Conversation Blending**: You recall important details from client meetings but can't remember whether certain points were discussed in the meeting or in subsequent team debriefs
-
 - **Training Content Confusion**: You implement procedures you're certain were covered in training, only to learn they were actually mentioned in casual conversations or suggested by colleagues afterward
 
 ## 3.2. Daily Life Scenarios
 
 - **Childhood Memory Contamination**: You have vivid memories of childhood events that family members later tell you never happened, or happened to someone else - you'd heard the stories so many times they became your memories
-
 - **News and Personal Event Blending**: After watching extensive news coverage of a natural disaster, you start to "remember" details about the event as if you were there, even though you only saw it on television
-
 - **Social Media Memory Creation**: You see friends' vacation photos and stories so frequently that you start to believe you were present at certain events or locations you never actually visited
-
 - **Movie and Reality Confusion**: You use a clever line or insight in conversation, believing it's your own original thought, only to realize later it came from a movie or TV show you watched recently
-
 - **Family Story Integration**: You've heard family stories about events before you were born so many times that you start to have "memories" of being there, complete with sensory details
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Advice Confusion**: You make financial decisions based on what you're sure was your own research, but later realize you were heavily influenced by a podcast or financial news segment
-
 - **Purchase Justification Blending**: You convince yourself you bought something for practical reasons you originally considered, after being influenced by advertising or friends' opinions
-
 - **Market Memory Distortion**: You remember market events or economic conditions differently than they actually occurred, having internalized narratives from financial media rather than your own experience
-
 - **Budget Meeting Recall**: After household budget discussions, you remember agreeing to certain spending limits that were actually suggested by family members but not collectively decided upon
-
 - **Investment Performance Memory**: You recall investment decisions and their outcomes differently than documented, having incorporated subsequent market analysis and commentary into your original memory
 
 # 4. Quick Test
@@ -71,13 +59,9 @@ Source confusion is like when your memories get mixed up with what other people 
 ## 4.1. Self-Assessment Questions
 
 1. **The Source Memory Test**: Can you clearly identify where you learned key information you're sharing? If you hesitate or say "I think I read it somewhere" or "I'm not sure," you may be experiencing source confusion.
-
 2. **The Memory Confidence Check**: How confident are you in your memory compared to documented evidence (emails, photos, written records)? If your confidence drops when confronted with documentation, source confusion may be at play.
-
 3. **The Media Influence Quiz**: Have you ever caught yourself quoting something as personal experience that you later realized came from a movie, TV show, or social media post?
-
 4. **The Conversation Integration Test**: After discussing past events with others, do you find your memories shifting to match their versions, even when they differ from your original recollection?
-
 5. **The Detail Attribution Challenge**: Can you trace back specific details in your memories to their original source, or do they blend together from multiple exposures?
 
 **Scoring**: If you answered "yes" to more than two questions, or frequently experience uncertainty about memory sources, you may be affected by source confusion.

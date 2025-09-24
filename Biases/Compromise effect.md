@@ -52,13 +52,9 @@ The Compromise Effect is like that - when we have choices, we often pick the mid
 ## 4.1. Self-Assessment Questions
 
 1. **The Independence Test**: When you choose a middle option, can you list three specific reasons why it's better for YOU than the other options, beyond just being "in the middle"?
-
 2. **The Extreme Evaluation**: Have you honestly evaluated the cheapest and most expensive options on their own merits, or did you dismiss them quickly because of their position?
-
 3. **The Value Question**: Are you choosing something because it represents good value for your specific needs, or because it feels like a "safe" choice?
-
 4. **The Removal Test**: If the middle option disappeared, would you be able to make a confident choice between the remaining options?
-
 5. **The Justification Challenge**: Can you explain your choice without using words like "balanced," "moderate," "middle," "reasonable," or "sensible"?
 
 **Scoring**: If you answered "no" to more than two questions, the Compromise Effect may be influencing your decisions.

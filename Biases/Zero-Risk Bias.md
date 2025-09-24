@@ -69,13 +69,9 @@ The Zero-Risk Bias is like choosing Option A - we love the idea of making someth
 ## 4.1. Self-Assessment Questions
 
 1. **The Risk Distribution Test**: When making decisions, do you focus more on eliminating specific risks completely or reducing overall risk exposure?
-
 2. **The Resource Allocation Check**: Do you ever spend disproportionate time, money, or attention on minor risks while larger risks go relatively unaddressed?
-
 3. **The Perfect vs. Good Enough Assessment**: Do you find yourself preferring solutions that eliminate one risk entirely, even if they're less effective overall?
-
 4. **The Visibility vs. Impact Test**: Are you more influenced by how visible or dramatic a risk is than by its actual probability and impact?
-
 5. **The Emotional Comfort Question**: Do your risk management decisions sometimes prioritize feeling completely safe over being actually safer?
 
 **Scoring**: If you answered "yes" to three or more questions, the Zero-Risk Bias may be influencing your risk-related decisions.

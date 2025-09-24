@@ -55,13 +55,9 @@ The Third-person Effect is when we think that media, advertising, and messages h
 ## 4.1. Self-Assessment Questions
 
 1. **The Immunity Test**: How often do you find yourself thinking "that doesn't affect me" when discussing media, advertising, or social influence?
-
 2. **The Double Standard Check**: When you see someone else influenced by messaging, do you assume you would have reacted differently in the same situation?
-
 3. **The Self-Awareness Question**: Can you recall specific instances where you later realized you were influenced by something you initially thought had no effect on you?
-
 4. **The Attribution Pattern**: Do you typically attribute others' behaviors to external influences while crediting your own similar behaviors to personal choice?
-
 5. **The Critical Thinking Gap**: Are you more critical of messages that challenge your views than those that confirm your existing beliefs?
 
 **Scoring**: If you answered "often" or "very often" to more than two questions, you may be experiencing the Third-person Effect.

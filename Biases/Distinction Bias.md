@@ -12,17 +12,12 @@ Imagine you're looking at two toys that are almost the same, but one has a tiny 
 
 **Warning Signs You're Experiencing Distinction Bias:**
 
-• You can't stop focusing on minor differences when comparing options
-
-• You spend hours researching tiny specifications between similar products
-
-• You feel paralyzed by choice between options that are nearly identical
-
-• You regret a decision after noticing a small difference you missed during comparison
-
-• You exaggerate the importance of features that don't matter in real-world use
-
-• You catch yourself saying "I need to see them side by side" for trivial decisions
+- You can't stop focusing on minor differences when comparing options
+- You spend hours researching tiny specifications between similar products
+- You feel paralyzed by choice between options that are nearly identical
+- You regret a decision after noticing a small difference you missed during comparison
+- You exaggerate the importance of features that don't matter in real-world use
+- You catch yourself saying "I need to see them side by side" for trivial decisions
 
 **Key Indicators:**
 - Over-analysis of minor variations

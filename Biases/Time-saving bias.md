@@ -55,13 +55,9 @@ Time-saving Bias is when we think going faster will save us lots of time, but we
 ## 4.1. Self-Assessment Questions
 
 1. **The Speed Math Test**: If you increase your speed from 20 mph to 40 mph, how much time do you save on a 20-mile trip? What if you increase from 60 mph to 80 mph?
-
 2. **The Optimization Priority**: When you want to save time, do you focus on your fastest activities or your slowest ones?
-
 3. **The Risk-Reward Evaluation**: Are you willing to take significant risks for small time savings because you overestimate the benefits?
-
 4. **The Process Analysis**: Can you identify the biggest time drains in your day, or do you focus on optimizing already-efficient activities?
-
 5. **The Investment Question**: Do you spend more time optimizing things that are already working well rather than fixing major problems?
 
 **Scoring**: If you struggle with question 1, or answered "yes" to questions 2-5, you may be experiencing Time-saving Bias.

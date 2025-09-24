@@ -75,11 +75,8 @@ The college admits students who are either smart OR athletic (or both).
 **Self-Assessment Questions:**
 
 1. **The Selection Test**: When drawing conclusions about a group, do you consider how that group was selected or filtered?
-
 2. **The Missing Data Check**: Are you missing people or cases that were filtered out before you observed them?
-
 3. **The Population Question**: Are you studying a special subgroup but acting like it represents everyone?
-
 4. **The Correlation Check**: Do you see relationships that might be created by the selection process itself?
 
 **Decision Review Checklist:**

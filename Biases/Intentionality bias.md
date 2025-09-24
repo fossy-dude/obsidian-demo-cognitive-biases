@@ -48,13 +48,9 @@ Intentionality bias is when we automatically assume that people's actions were d
 **Intentionality Assessment Questions:**
 
 1. **Alternative Explanation Test**: Can you think of at least 3 plausible reasons why this action might have been accidental or unintentional?
-
 2. **Benefit Question**: What would the person actually gain by doing this intentionally? If the benefit is minimal or unclear, it may not be intentional.
-
 3. **Pattern Recognition**: Has this person shown similar behavior before? If not, this might be an isolated incident rather than a pattern.
-
 4. **Communication Check**: Have you asked the person about their intentions directly, or are you assuming without clarification?
-
 5. **Self-Reflection**: How would you want someone to interpret your actions if you made a similar mistake accidentally?
 
 **Intentionality Bias Indicators**: If you struggle to find alternative explanations, assume malicious intent without clear benefits, or haven't communicated with the person involved, intentionality bias may be affecting your judgment.
@@ -64,13 +60,9 @@ Intentionality bias is when we automatically assume that people's actions were d
 **Immediate Intervention Strategies:**
 
 1. **🤔 Hanlon's Razor Application**: Practice the principle: "Never attribute to malice that which is adequately explained by stupidity/incompetence/accident"
-
 2. **Benefit-Cost Analysis**: Ask: "What would this person actually gain by doing this intentionally?" If the benefit doesn't outweigh the effort/risk, it's probably not intentional
-
 3. ** Alternative Scenarios**: Force yourself to brainstorm 3-5 possible explanations for the action, including accidents, mistakes, and misunderstandings
-
 4. **Communication First**: Before assuming intent, ask clarifying questions like "Can you help me understand what happened here?" or "Was this intentional?"
-
 5. **⏰ Delay Judgment**: Give yourself 24 hours before concluding something was intentional, allowing emotions to cool and facts to emerge
 
 **Long-Term Mindset Development:**

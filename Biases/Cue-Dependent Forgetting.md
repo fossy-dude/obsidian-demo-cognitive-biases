@@ -12,19 +12,13 @@ Your brain is like a library where memories are stored with special "tags" or cu
 
 *Signs that cue-dependent memory is at work in your daily life:*
 
-• **Context triggers memory**: You remember things better in the same location where you learned them
-
-• **Sensory flashbacks**: Smells, sounds, or textures suddenly bring back vivid memories
-
-• **Mood-dependent recall**: You remember happy memories more easily when you're happy, sad ones when you're down
-
-• **Blanking in new environments**: Drawing a blank during tests or presentations in unfamiliar settings
-
-• **Song-triggered memories**: Hearing certain music instantly transports you to specific moments
-
-• **Physical position matters**: Remembering where you put something by retracing your physical steps
-
-• **Social context recall**: Remembering conversations better when the same people are present
+- **Context triggers memory**: You remember things better in the same location where you learned them
+- **Sensory flashbacks**: Smells, sounds, or textures suddenly bring back vivid memories
+- **Mood-dependent recall**: You remember happy memories more easily when you're happy, sad ones when you're down
+- **Blanking in new environments**: Drawing a blank during tests or presentations in unfamiliar settings
+- **Song-triggered memories**: Hearing certain music instantly transports you to specific moments
+- **Physical position matters**: Remembering where you put something by retracing your physical steps
+- **Social context recall**: Remembering conversations better when the same people are present
 
 # 3. How Memory Cues Show Up
 

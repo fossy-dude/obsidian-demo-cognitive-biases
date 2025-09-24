@@ -106,9 +106,9 @@ C) Put off the purchase until you have "smaller money"
 ---
 
 **Quick Test Answers:**
-1) A - The seven $1 bills (denomination effect makes smaller bills feel "easier" to spend)
-2) C - One hundred $1 bills (smaller denominations are typically spent more freely)
-3) B - Use five $1 bills (people prefer not to break larger bills for small purchases)
+1. A - The seven $1 bills (denomination effect makes smaller bills feel "easier" to spend)
+2. C - One hundred $1 bills (smaller denominations are typically spent more freely)
+3. B - Use five $1 bills (people prefer not to break larger bills for small purchases)
 
 > "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." - Ayn Rand
 

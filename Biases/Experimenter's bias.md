@@ -54,13 +54,9 @@ Experimenter's bias is when people who are testing something or looking for answ
 ## 4.1. Self-Assessment Questions
 
 1. **The Opposing Evidence Test**: Can you honestly list three pieces of evidence that contradict your current belief or hypothesis? If you struggle to think of any, you might be experiencing experimenter's bias.
-
 2. **The Blind Spot Check**: When you encounter information that challenges your beliefs, what's your first reaction? Do you immediately look for flaws in the contradictory evidence, or do you consider it objectively?
-
 3. **The Information Source Audit**: Look at your sources of information for the last month. Are they predominantly from perspectives that align with your existing views, or do you actively seek diverse viewpoints?
-
 4. **The Negative Results Review**: In recent projects or decisions, how have you handled results that didn't match your expectations? Did you investigate them thoroughly or minimize their importance?
-
 5. **The Devil's Advocate Challenge**: Can you argue the opposite position of your current belief as strongly as you can argue your own position? If not, you may be too invested in your current viewpoint.
 
 **Scoring**: If you find it difficult to consider opposing evidence, primarily consume information that confirms your beliefs, or struggle to argue alternative viewpoints, you're likely experiencing experimenter's bias.

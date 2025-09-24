@@ -112,9 +112,9 @@ C) The first item (milk)
 ---
 
 **Quick Test Answers:**
-1) B - Just "555-123" (the suffix effect makes you forget the final digit)
-2) B - Remember everything except the final point (the alarm disrupts the last thing heard)
-3) B - The last item (butter) - the suffix effect specifically impacts recent items
+1. B - Just "555-123" (the suffix effect makes you forget the final digit)
+2. B - Remember everything except the final point (the alarm disrupts the last thing heard)
+3. B - The last item (butter) - the suffix effect specifically impacts recent items
 
 > "The suffix effect reminds us that our memory is not a perfect recording device - it's more like Etch A Sketch that can be easily shaken." - Memory Researcher
 

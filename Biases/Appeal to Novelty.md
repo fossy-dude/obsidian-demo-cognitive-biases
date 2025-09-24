@@ -12,19 +12,13 @@ The appeal to novelty is like believing that every new toy that comes out is aut
 
 *Watch for these warning signs that appeal to novelty might be influencing your thinking:*
 
-• **Newer-is-better assumption** - You automatically assume new ideas, products, or approaches are superior to existing ones
-
-• **Dismissiveness of tradition** - You quickly reject established methods or solutions because they're "outdated"
-
-• **Trend chasing** - You feel pressured to adopt the latest trends without evaluating their actual merit
-
-• **Innovation overvaluation** - You get excited about new concepts primarily because they're novel, not because they're better
-
-• **Historical disregard** - You ignore lessons from the past or dismiss proven solutions
-
-• **Technology worship** - You believe new technology is always superior, regardless of actual functionality
-
-• **Change for change's sake** - You advocate for changes without clear benefits, just because they're different
+- **Newer-is-better assumption** - You automatically assume new ideas, products, or approaches are superior to existing ones
+- **Dismissiveness of tradition** - You quickly reject established methods or solutions because they're "outdated"
+- **Trend chasing** - You feel pressured to adopt the latest trends without evaluating their actual merit
+- **Innovation overvaluation** - You get excited about new concepts primarily because they're novel, not because they're better
+- **Historical disregard** - You ignore lessons from the past or dismiss proven solutions
+- **Technology worship** - You believe new technology is always superior, regardless of actual functionality
+- **Change for change's sake** - You advocate for changes without clear benefits, just because they're different
 
 # 3. How Bias Shows Up
 
@@ -59,13 +53,9 @@ The appeal to novelty is like believing that every new toy that comes out is aut
 *Use these questions to check if appeal to novelty might be affecting your thinking:*
 
 1. **Innovation Assessment**: "Am I excited about this new thing primarily because it's new, or because it actually solves a problem better than existing solutions?"
-
 2. **Comparative Analysis**: "Have I honestly compared the new option against proven alternatives, or am I assuming new equals better?"
-
 3. **Historical Context**: "What lessons from the past or existing solutions am I ignoring in my enthusiasm for the new?"
-
 4. **Evidence Check**: "Do I have actual evidence that this new approach works better, or am I just attracted to its novelty?"
-
 5. **Pattern Recognition**: "Do I frequently abandon things that work well for new things, only to realize later that the original was better?"
 
 # 5. How to Counteract

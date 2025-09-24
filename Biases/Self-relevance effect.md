@@ -52,13 +52,9 @@ The self-relevance effect is when we remember things better if they're about us 
 ## 4.1. Self-Assessment Questions
 
 1. **The Personal Connection Test**: When reading or listening to information, do you find yourself automatically scanning for parts that relate to you personally?
-
 2. **The Memory Disparity Question**: Can you easily recall details about topics that interest you, while struggling to remember similar information about unfamiliar subjects?
-
 3. **The Attention Shift Test**: Do you notice your attention dramatically increasing when someone mentions your name, interests, or experiences in conversation?
-
 4. **The Information Filter Challenge**: When consuming information, do you mentally categorize it as "relevant to me" vs. "not relevant" and pay attention accordingly?
-
 5. **The Recall Comparison**: If asked to recall information from a meeting or article, would your memory be much better for sections that related to you personally?
 
 **Scoring**: If you answered "yes" to more than two questions, you are likely experiencing the self-relevance effect in your information processing.

@@ -12,21 +12,14 @@ When something rhymes, it feels more true and trustworthy to our brains—even i
 
 **Warning Signs of Rhyme-as-Reason Effect:**
 
-• You find yourself thinking "that sounds right" simply because words rhyme or have a nice rhythm
-
-• You remember rhyming phrases more easily than non-rhyming ones, even when the non-rhyming ones contain more important information
-
-• You catch yourself repeating catchy, rhyming advice without questioning whether it's actually accurate
-
-• You feel more confident in decisions when they can be expressed in a rhyming or rhythmic phrase
-
-• You notice yourself giving more weight to slogans, sayings, or proverbs just because they "flow well"
-
-• You find it harder to critically evaluate ideas that are presented in poetic or rhyming form
-
-• You catch yourself thinking "if it rhymes, it must be true" even when you know better
-
-• You notice advertisers, politicians, or influencers using rhyming phrases and feeling more persuaded by them
+- You find yourself thinking "that sounds right" simply because words rhyme or have a nice rhythm
+- You remember rhyming phrases more easily than non-rhyming ones, even when the non-rhyming ones contain more important information
+- You catch yourself repeating catchy, rhyming advice without questioning whether it's actually accurate
+- You feel more confident in decisions when they can be expressed in a rhyming or rhythmic phrase
+- You notice yourself giving more weight to slogans, sayings, or proverbs just because they "flow well"
+- You find it harder to critically evaluate ideas that are presented in poetic or rhyming form
+- You catch yourself thinking "if it rhymes, it must be true" even when you know better
+- You notice advertisers, politicians, or influencers using rhyming phrases and feeling more persuaded by them
 
 # 3. How Bias Shows Up
 
@@ -55,9 +48,7 @@ When something rhymes, it feels more true and trustworthy to our brains—even i
 **Rhyme-as-Reason Self-Check:**
 
 1. **The "Rewrite Test"**: "Take the catchy phrase and rewrite it without the rhyme. Does it still feel as true or compelling? If not, you might be under the rhyme-as-reason effect."
-
 2. **The "Evidence Check"**: "What specific evidence supports this rhyming claim? Am I accepting it as true just because it sounds good, or are there actual facts backing it up?"
-
 3. **The "Counter-Rhyme Test"**: "Can I create an equally catchy rhyme that says the opposite? If both rhymes sound equally convincing, the rhyming format might be clouding my judgment."
 
 **Quick Check**: If a rhyming phrase feels more true than its non-rhyming equivalent, you're likely experiencing the rhyme-as-reason effect!
@@ -67,19 +58,19 @@ When something rhymes, it feels more true and trustworthy to our brains—even i
 **️ Defense Strategies Against Rhyme-as-Reason:**
 
 **Before Making Decisions:**
-• **Translate to Plain Language**: Convert catchy, rhyming phrases into straightforward, factual statements before evaluating them
-• **Seek the Source**: Always ask "Where did this saying come from?" and "What evidence supports it?"
-• **Separate Form from Content**: Practice identifying when you're reacting to how something sounds versus what it actually says
+- **Translate to Plain Language**: Convert catchy, rhyming phrases into straightforward, factual statements before evaluating them
+- **Seek the Source**: Always ask "Where did this saying come from?" and "What evidence supports it?"
+- **Separate Form from Content**: Practice identifying when you're reacting to how something sounds versus what it actually says
 
 **When Evaluating Information:**
-• **Look for Non-Rhyming Alternatives**: If something sounds true because it rhymes, deliberately search for non-rhyming explanations of the same concept
-• **Question the Memorability**: Ask "Am I remembering this because it's true, or just because it's catchy?"
-• **Apply the Same Standards**: Evaluate rhyming claims using the same critical thinking you'd apply to any other information
+- **Look for Non-Rhyming Alternatives**: If something sounds true because it rhymes, deliberately search for non-rhyming explanations of the same concept
+- **Question the Memorability**: Ask "Am I remembering this because it's true, or just because it's catchy?"
+- **Apply the Same Standards**: Evaluate rhyming claims using the same critical thinking you'd apply to any other information
 
 **For Better Decision-Making:**
-• **Create Anti-Rhyme Notes**: When you hear a catchy phrase, immediately write down what it actually means in plain terms
-• **Delay Acceptance**: Wait 24 hours before acting on advice that came in a particularly catchy or rhyming form
-• **Seek Contradictory Evidence**: Actively look for information that contradicts the rhyming claim to balance your perspective
+- **Create Anti-Rhyme Notes**: When you hear a catchy phrase, immediately write down what it actually means in plain terms
+- **Delay Acceptance**: Wait 24 hours before acting on advice that came in a particularly catchy or rhyming form
+- **Seek Contradictory Evidence**: Actively look for information that contradicts the rhyming claim to balance your perspective
 
 **🔑 Advanced Technique**: Keep a "rhyme journal" for a week—note every rhyming phrase you encounter and question whether you'd believe it if it didn't rhyme. This builds awareness of how often this bias affects your thinking.
 

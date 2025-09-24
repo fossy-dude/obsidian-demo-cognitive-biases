@@ -52,13 +52,9 @@ Scope neglect is when we don't properly notice how big or small a problem really
 ## 4.1. Self-Assessment Questions
 
 1. **The Magnitude Test**: When you hear about a problem affecting 100 people vs. 100,000 people, do you feel proportionally different levels of concern?
-
 2. **The Resource Question**: If you had $1,000 to solve problems, would you split it equally among many small issues or focus it on the most impactful ones?
-
 3. **The Priority Challenge**: Can you rank current problems in your life by their actual impact, or do they all feel equally important?
-
 4. **The Scale Awareness**: When someone mentions "a big problem" vs. "a small problem," do you automatically adjust your response accordingly?
-
 5. **The Impact Estimation**: If asked to estimate how much one problem costs vs. another, can you provide realistic proportional differences?
 
 **Scoring**: If you answered "no" or "not really" to more than two questions, you may be experiencing scope neglect in your thinking.

@@ -49,9 +49,7 @@ Essentialism is like thinking every type of thing has a special "essence" or cor
 **Ask yourself these 3 questions:**
 
 1. **Fixed vs. Growth Thinking**: When someone excels at something, do you think "they were born with it" or "they worked hard to develop this skill"?
-
 2. **Generalization Check**: When you meet someone from a group you know, do you expect them to have certain traits "because that's how people from [group] are"?
-
 3. **Change Resistance**: When evidence challenges your view of what's "natural" for a category, do you find yourself rejecting the evidence rather than updating your beliefs?
 
 **If you answered "yes" to any of these**, you might be experiencing essentialist thinking. Remember that most human characteristics and abilities exist on spectrums and can be developed through experience, effort, and environmental factors.

@@ -46,13 +46,9 @@ Implicit association bias is when your brain automatically connects certain idea
 **Implicit Association Self-Assessment:**
 
 1. **Speed Test**: When you hear certain job titles (CEO, nurse, engineer, teacher), what images or genders immediately come to mind first? How quickly do these associations form?
-
 2. **Surprise Factor**: Think about recent times you felt surprised by someone's abilities, behavior, or background. What assumptions were challenged?
-
 3. **Pattern Recognition**: Look at your social circle, team, or regular contacts. Do you notice patterns in who you trust, promote, or seek advice from?
-
 4. **Language Association**: Pay attention to the adjectives you automatically use to describe different groups of people. Are there consistent patterns?
-
 5. **Decision Timeline**: When making quick decisions about people, what factors seem to influence you most quickly? Are these factors relevant to the decision?
 
 **Implicit Bias Indicators**: If you notice consistent patterns in your automatic associations, especially if they contradict your conscious beliefs, implicit association bias may be at work.
@@ -62,13 +58,9 @@ Implicit association bias is when your brain automatically connects certain idea
 **Immediate Intervention Strategies:**
 
 1. ** Conscious Deliberation**: When making decisions about people, pause and ask: "What assumptions am I making automatically?" and "What evidence do I actually have?"
-
 2. ** Perspective Switch**: Before judging someone, ask: "How would I view this situation if this person were [different age/gender/background]?"
-
 3. **📝 Evidence Collection**: Keep decision journals documenting the actual reasons for choices about people, reviewing later for pattern recognition.
-
 4. **Structured Evaluation**: Use standardized criteria, checklists, or scoring systems that focus on objective measures rather than gut feelings.
-
 5. ** Diverse Exposure**: Actively seek out counter-stereotypical examples and experiences that challenge your automatic associations.
 
 **Long-Term Change Approaches:**

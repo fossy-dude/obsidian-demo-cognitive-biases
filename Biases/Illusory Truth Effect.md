@@ -12,19 +12,13 @@ The Illusory Truth Effect is when we start believing something is true just beca
 
 *List typical signs and "warning flags" for noticing bias in yourself or others. Use bullet points and short sentences for readability.*
 
-• **Instant acceptance**: You believe something without checking facts because it "sounds familiar"
-
-• **Repetition comfort**: Information feels more trustworthy the second or third time you encounter it
-
-• **Source confusion**: You can't remember where you first heard something, but it "feels true"
-
-• **Resistance to fact-checking**: You avoid verifying repeated claims because they seem obviously correct
-
-• **Echo chamber validation**: You assume widespread repetition equals accuracy
-
-• **Gut feeling override**: Your intuition says "this must be true" based purely on exposure frequency
-
-• **Skepticism shutdown**: You stop questioning information that you've encountered multiple times
+- **Instant acceptance**: You believe something without checking facts because it "sounds familiar"
+- **Repetition comfort**: Information feels more trustworthy the second or third time you encounter it
+- **Source confusion**: You can't remember where you first heard something, but it "feels true"
+- **Resistance to fact-checking**: You avoid verifying repeated claims because they seem obviously correct
+- **Echo chamber validation**: You assume widespread repetition equals accuracy
+- **Gut feeling override**: Your intuition says "this must be true" based purely on exposure frequency
+- **Skepticism shutdown**: You stop questioning information that you've encountered multiple times
 
 # 3. How Bias Shows Up
 
@@ -67,9 +61,7 @@ The Illusory Truth Effect is when we start believing something is true just beca
 Ask yourself these three questions when evaluating information:
 
 1. **Source Check**: "Can I identify the original, credible source of this information, or am I just relying on the fact that I've heard it before?"
-
 2. **Repetition vs. Evidence**: "Am I believing this because I've encountered it multiple times, or because I've seen actual evidence supporting it?"
-
 3. **Verification Gap**: "When was the last time I actively fact-checked this claim, rather than accepting it based on familiarity?"
 
 **Red Flag Moment**: If you find yourself saying "everyone knows that" or "I've heard this everywhere" without being able to cite specific evidence, you may be experiencing the Illusory Truth Effect.
@@ -80,24 +72,18 @@ Ask yourself these three questions when evaluating information:
 
 ## 5.1. **Immediate Actions**
 
-• **Pause and question**: When information feels "obviously true," deliberately ask "How do I actually know this?"
-
-• **Source tracking**: Make a mental note of where you first heard a claim and actively seek the original source
-
-• **One-source rule**: Don't accept information as fact until you've verified it from at least one credible, primary source
+- **Pause and question**: When information feels "obviously true," deliberately ask "How do I actually know this?"
+- **Source tracking**: Make a mental note of where you first heard a claim and actively seek the original source
+- **One-source rule**: Don't accept information as fact until you've verified it from at least one credible, primary source
 
 ## 5.2. **Daily Practices**
 
-• **Fact-check routine**: Set aside time weekly to verify claims you've been accepting without question
-
-• **Diverse sources**: Actively seek information from varied, credible sources rather than echo chambers
-
-• **Evidence journaling**: When you believe something strongly, write down the actual evidence supporting it
+- **Fact-check routine**: Set aside time weekly to verify claims you've been accepting without question
+- **Diverse sources**: Actively seek information from varied, credible sources rather than echo chambers
+- **Evidence journaling**: When you believe something strongly, write down the actual evidence supporting it
 
 ## 5.3. **Long-term Strategies**
 
-• **Critical thinking training**: Practice distinguishing between correlation (repeated exposure) and causation (actual truth)
-
-• **Skeptical community**: Engage with people who constructively challenge popular assumptions
-
-• **Media literacy**: Learn to recognize how repetition is used in marketing, politics, and social media to create false credibility
+- **Critical thinking training**: Practice distinguishing between correlation (repeated exposure) and causation (actual truth)
+- **Skeptical community**: Engage with people who constructively challenge popular assumptions
+- **Media literacy**: Learn to recognize how repetition is used in marketing, politics, and social media to create false credibility

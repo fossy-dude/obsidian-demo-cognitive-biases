@@ -33,33 +33,23 @@ Social comparison bias is like that - when we're choosing people for jobs or tea
 ## 3.1. Workplace Examples
 
 - **Leadership Hiring**: A manager who excels at creative thinking consistently hires analytical team members, avoiding creative thinkers who might challenge their ideas or steal the spotlight
-
 - **Project Team Assembly**: A technical lead building a software team deliberately chooses junior developers over senior ones who might question their technical decisions or architecture
-
 - **Consultant Selection**: A company executive hires a marketing consultant who specializes in areas they're weak in, avoiding consultants who are strong in the executive's claimed expertise
-
 - **Board Member Recruitment**: A CEO recruits board members with complementary rather than overlapping skills to maintain their position as the primary expert in key areas
-
 - **Succession Planning**: A senior partner in a law firm avoids mentoring associates who show exceptional promise in their specialty, fearing they might be overshadowed or replaced
 
 ## 3.2. Daily Life Scenarios
 
 - **Sports Team Selection**: A basketball coach who was a great shooter recruits players who excel at defense and passing, avoiding other sharpshooters who might challenge their coaching philosophy
-
 - **Volunteer Organization**: A community organizer skilled at fundraising recruits people for event planning and logistics, avoiding other successful fundraisers who might share the spotlight
-
 - **Social Circle Formation**: People tend to befriend others with different strengths and interests, creating a balanced social dynamic where no one directly competes with their core identity
-
 - **Parenting Comparisons**: Parents who pride themselves on being nurturing might downplay the importance of strict discipline, while those who value structure might emphasize it over emotional support
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Club**: An investor who's successful at stock picking avoids partnering with other successful stock pickers, preferring to work with bond or real estate experts
-
 - **Financial Advisor Selection**: A business owner who's proud of their negotiation skills hires a financial advisor who specializes in tax planning rather than deal-making
-
 - **Business Partnership**: Entrepreneurs often seek partners with complementary skills (e.g., a technical founder seeking a business co-founder) rather than someone who shares their core competencies
-
 - **Real Estate Investment**: An investor skilled at property evaluation avoids partnering with other skilled evaluators, preferring to work with those who have different expertise like property management or financing
 
 # 4. Quick Test
@@ -67,13 +57,9 @@ Social comparison bias is like that - when we're choosing people for jobs or tea
 ## 4.1. Self-Assessment Questions
 
 1. **The Comfort Zone Test**: When choosing team members or collaborators, do you feel more comfortable with people who have different strengths than those who share your expertise?
-
 2. **The Threat Assessment**: Do you feel a sense of relief when someone with similar skills is rejected, and disappointment when they're accepted?
-
 3. **The Excellence Threshold**: Would you hire someone who's significantly better than you at your core job functions, or would you find reasons to choose someone else?
-
 4. **The Complementarity Check**: When you praise someone's different strengths, are you genuinely valuing diversity, or avoiding comparison to your own abilities?
-
 5. **The Mentor Challenge**: Do you actively mentor people who could potentially surpass you in your areas of expertise, or do you focus on those who won't threaten your position?
 
 **Scoring**: If you answered "yes" to more than two questions, you may be experiencing social comparison bias.

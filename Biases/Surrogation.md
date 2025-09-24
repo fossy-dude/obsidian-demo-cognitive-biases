@@ -112,9 +112,9 @@ C) Surrogation - confusing testing with learning
 ---
 
 **Quick Test Answers:**
-1) B - They're confusing the measure with the goal (time spent ≠ quality care)
-2) B - They're gaming the metric instead of innovating (quantity ≠ quality innovation)
-3) C - Surrogation - confusing testing with learning (test scores ≠ actual learning)
+1. B - They're confusing the measure with the goal (time spent ≠ quality care)
+2. B - They're gaming the metric instead of innovating (quantity ≠ quality innovation)
+3. C - Surrogation - confusing testing with learning (test scores ≠ actual learning)
 
 > "Not everything that counts can be counted, and not everything that can be counted counts." - Albert Einstein
 

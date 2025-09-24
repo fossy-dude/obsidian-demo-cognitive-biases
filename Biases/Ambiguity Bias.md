@@ -12,19 +12,13 @@ Ambiguity bias is like choosing between two mystery boxes—one where you know t
 
 *Watch for these warning signs that ambiguity bias might be influencing your decisions:*
 
-• **Risk avoidance** - You consistently choose options with known outcomes over potentially better unknowns
-
-• **Information paralysis** - You delay decisions because you can't get complete certainty
-
-• **Default preference** - You stick with current situations rather than exploring ambiguous alternatives
-
-• **Certainty seeking** - You spend excessive time gathering data to eliminate all unknowns
-
-• **Status quo comfort** - You reject new opportunities because they feel "too uncertain"
-
-• **Overvaluing guarantees** - You accept lower returns or benefits just to avoid uncertainty
-
-• **Analysis avoidance** - You skip potentially valuable options because they're too complex to fully understand
+- **Risk avoidance** - You consistently choose options with known outcomes over potentially better unknowns
+- **Information paralysis** - You delay decisions because you can't get complete certainty
+- **Default preference** - You stick with current situations rather than exploring ambiguous alternatives
+- **Certainty seeking** - You spend excessive time gathering data to eliminate all unknowns
+- **Status quo comfort** - You reject new opportunities because they feel "too uncertain"
+- **Overvaluing guarantees** - You accept lower returns or benefits just to avoid uncertainty
+- **Analysis avoidance** - You skip potentially valuable options because they're too complex to fully understand
 
 # 3. How Bias Shows Up
 
@@ -59,13 +53,9 @@ Ambiguity bias is like choosing between two mystery boxes—one where you know t
 *Use these questions to check if ambiguity bias might be affecting your thinking:*
 
 1. **Risk Assessment**: "Am I avoiding this option primarily because I can't predict the exact outcome, even though it might be better than my current choice?"
-
 2. **Information Check**: "Have I gathered enough relevant information to make a reasonable decision, or am I seeking impossible certainty?"
-
 3. **Opportunity Cost**: "What potential benefits might I be missing by choosing the safer, more certain option?"
-
 4. **Pattern Recognition**: "Do I consistently avoid uncertain situations, even when they could lead to growth or better results?"
-
 5. **Worst-Case Scenario**: "What's the actual downside of the uncertain option versus the guaranteed outcome of my current choice?"
 
 # 5. How to Counteract

@@ -44,13 +44,9 @@ Impact bias is when we think that future events (both good and bad) will affect 
 **Emotional Forecasting Assessment:**
 
 1. **Intensity Check**: On a scale of 1-10, how much emotional impact do you think this event will have? Now, consider how you felt about similar events 6 months later - how much did the intensity change?
-
 2. **Duration Test**: How long do you expect this emotional state to last? Research shows most positive and negative events affect us for 3-6 months at most.
-
 3. **Adaptation Reality**: Have you previously adapted to similar changes (moving, new job, relationship changes)? How quickly did you return to baseline?
-
 4. **Comparison Exercise**: Compare this anticipated event to others you've experienced. Are you overestimating its uniqueness or importance?
-
 5. **Present Emotion Influence**: Are you currently experiencing strong emotions (good or bad) that might be coloring your forecast?
 
 **Red Flag Assessment**: If your predictions significantly differ from past experiences, or if you can't recall similar events, impact bias may be affecting your judgment.
@@ -60,13 +56,9 @@ Impact bias is when we think that future events (both good and bad) will affect 
 **Immediate Calibration Strategies:**
 
 1. **Reference Past Experiences**: Create an "emotional history log" of major life events and how they actually affected you. Review this when making predictions.
-
 2. **Reality Testing**: Ask yourself: "How have I felt about similar events in the past?" and "How did others recover from similar situations?"
-
 3. **⏰ Time Perspective**: When forecasting emotional impact, mentally fast-forward 6 months and ask: "How much will this really matter then?"
-
 4. ** Adaptation Acknowledgment**: Consciously remind yourself: "I will adapt to this, just as I've adapted to everything else in life."
-
 5. ** Seek External Perspective**: Ask people who've experienced similar events: "How did this actually affect your happiness long-term?"
 
 **Long-Term Mindset Shifts:**

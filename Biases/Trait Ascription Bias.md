@@ -107,10 +107,10 @@ C) "They can see I'm genuinely upset"
 ---
 
 **Quick Test Answers:**
-1) B - Giving others the benefit of doubt and considering situational factors
-2) A or B - Notice how you provide context and reasons for your own behavior
-3) A - Considering situational factors rather than personality traits
-4) A - Recognizing you might judge yourself more harshly than others judge you
+1. B - Giving others the benefit of doubt and considering situational factors
+2. A or B - Notice how you provide context and reasons for your own behavior
+3. A - Considering situational factors rather than personality traits
+4. A - Recognizing you might judge yourself more harshly than others judge you
 
 > "We see others as they appear to us, but we see ourselves as we feel inside." - Daniel Kahneman
 

@@ -45,49 +45,33 @@ The Generation Effect is like that - when you actively think about something and
 ## 3.1. Workplace Examples
 
 - **Training and Onboarding**: New employees who learn through hands-on problem-solving and experimentation remember procedures much better than those who just read training manuals or watch demonstrations.
-
 - **Skills Development**: A programmer who figures out a complex algorithm through trial and error retains that knowledge far longer than someone who simply copies code from a tutorial or documentation.
-
 - **Leadership Training**: Managers who develop their own leadership style through experience and reflection remember their principles better than those who memorize leadership theories from books.
-
 - **Innovation Sessions**: Team members who participate in brainstorming and idea generation remember the resulting concepts much better than those who were just presented with the final ideas.
-
 - **Technical Troubleshooting**: IT professionals who diagnose and solve system problems themselves remember the solutions better than those who follow step-by-step guides provided by others.
 
 ## 3.2. Daily Life Scenarios
 
 - **Cooking and Recipes**: When you modify and adapt recipes to your taste, you remember those changes and the dish much better than when you follow recipes exactly as written.
-
 - **Home Improvement**: DIY projects where you figure out solutions through trial and error stay in your memory much longer than when you hire someone to do the work or follow detailed instructions.
-
 - **Navigation Skills**: When you get lost and find your own way, you remember the route much better than when someone gives you turn-by-turn directions.
-
 - **Technology Learning**: Features you discover on your phone or computer through exploration stick with you longer than features someone showed you directly.
-
 - **Language Learning**: Words and phrases you figure out through context and conversation are remembered better than those you memorize from vocabulary lists.
 
 ## 3.3. Educational and Learning Impact
 
 - **Student Study Habits**: Students who create their own study guides and practice problems perform better on tests than those who only review provided materials.
-
 - **Mathematics Learning**: Students who derive formulas and solve problems through reasoning remember the concepts better than those who memorize formulas without understanding.
-
 - **Science Education**: Students who conduct experiments and observe results remember scientific principles better than those who just read about them in textbooks.
-
 - **Foreign Language Acquisition**: Language learners who practice conversation and figure out grammar patterns through usage remember better than those who focus solely on grammar rules and vocabulary lists.
-
 - **Creative Writing**: Writers who develop their own style through experimentation and practice remember writing techniques better than those who only study writing theory.
 
 ## 3.4. Financial and Decision-Making 💰
 
 - **Investment Strategy**: Investors who develop their own investment philosophy through research and experience remember their principles better than those who follow others' advice without personal reflection.
-
 - **Budget Creation**: People who create their own budgeting system from scratch stick with it longer than those who adopt pre-made budget templates.
-
 - **Financial Planning**: Individuals who figure out their own financial goals and strategies are more likely to follow through than those who use generic financial plans.
-
 - **Business Planning**: Entrepreneurs who develop their own business models and strategies remember their plans better than those who use business plan templates or consultants.
-
 - **Risk Assessment**: People who analyze risks and develop their own assessment frameworks make better decisions than those who rely solely on others' risk evaluations.
 
 # 4. Quick Test
@@ -97,28 +81,21 @@ The Generation Effect is like that - when you actively think about something and
 ### 4.1.1. **Generation Effect Awareness Test**
 
 1. **Learning Preference Check**: When you need to learn something new, do you prefer to figure it out yourself through experimentation rather than having someone show you directly?
-
 2. **Memory Retention Comparison**: Can you think of examples where you remember information much better because you discovered it yourself versus when someone told you?
-
 3. **Problem-Solving Recall**: Do you find that solutions you develop yourself stick in your memory longer than solutions you read about or were taught?
-
 4. **Active Learning Preference**: Do you learn better when you can ask questions, explore, and engage actively rather than passively receiving information?
-
 5. **Effort-Based Memory**: Do you notice that things that required more mental effort to understand are remembered better than things that came easily?
 
 ### 4.1.2. **Learning Style Assessment**
 
-6. **Trial and Error Learning**: Do you prefer learning through hands-on experience and making mistakes rather than following detailed instructions?
-
-7. **Concept Understanding**: Do you understand concepts better when you work through them step by step rather than memorizing final answers?
-
-8. **Ownership of Knowledge**: Do you feel more connected to and confident about knowledge you generated yourself versus knowledge you received from others?
+1. **Trial and Error Learning**: Do you prefer learning through hands-on experience and making mistakes rather than following detailed instructions?
+2. **Concept Understanding**: Do you understand concepts better when you work through them step by step rather than memorizing final answers?
+3. **Ownership of Knowledge**: Do you feel more connected to and confident about knowledge you generated yourself versus knowledge you received from others?
 
 ### 4.1.3. **Practical Application Questions**
 
-9. **Teaching and Sharing**: When you teach others, do you encourage them to figure things out themselves rather than just giving them answers?
-
-10. **Problem-Solving Approach**: When faced with a new problem, do you try to solve it yourself first before seeking help or looking up solutions?
+1. **Teaching and Sharing**: When you teach others, do you encourage them to figure things out themselves rather than just giving them answers?
+2. **Problem-Solving Approach**: When faced with a new problem, do you try to solve it yourself first before seeking help or looking up solutions?
 
 ### 4.1.4. **Scoring And Interpretation**
 

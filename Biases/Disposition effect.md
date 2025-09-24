@@ -106,9 +106,9 @@ C) Split resources equally based on original allocations
 ---
 
 **Quick Test Answers:**
-1) A - Stock A (most people prefer to "lock in" gains rather than realize losses)
-2) B - Wait to break even (classic disposition effect - holding losers hoping to recover)
-3) A - Redirect from successful to struggling (throwing good money after bad to avoid admitting failure)
+1. A - Stock A (most people prefer to "lock in" gains rather than realize losses)
+2. B - Wait to break even (classic disposition effect - holding losers hoping to recover)
+3. A - Redirect from successful to struggling (throwing good money after bad to avoid admitting failure)
 
 > "The stock market is filled with individuals who know the price of everything, but the value of nothing." - Philip Fisher
 

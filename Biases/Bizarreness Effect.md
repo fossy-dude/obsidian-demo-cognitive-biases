@@ -12,19 +12,13 @@ Our brains are like sticky traps for weird stuff! When something unusual, funny,
 
 Watch for these warning signs that bizarreness is hijacking your memory or judgment:
 
-• **Vivid recall of unusual details** while forgetting important but mundane information
-
-• **Making decisions based on memorable anecdotes** rather than comprehensive data
-
-• **Overestimating the frequency** of rare but memorable events (plane crashes vs. car accidents)
-
-• **Being swayed by flashy presentations** over substance in meetings or pitches
-
-• **Remembering the messenger more than the message** when information is delivered in an unusual way
-
-• **Giving disproportionate weight** to shocking news stories or viral social media content
-
-• **Struggling to recall routine but important information** while easily remembering trivial but bizarre facts
+- **Vivid recall of unusual details** while forgetting important but mundane information
+- **Making decisions based on memorable anecdotes** rather than comprehensive data
+- **Overestimating the frequency** of rare but memorable events (plane crashes vs. car accidents)
+- **Being swayed by flashy presentations** over substance in meetings or pitches
+- **Remembering the messenger more than the message** when information is delivered in an unusual way
+- **Giving disproportionate weight** to shocking news stories or viral social media content
+- **Struggling to recall routine but important information** while easily remembering trivial but bizarre facts
 
 # 3. How Bias Shows Up
 

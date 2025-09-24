@@ -69,13 +69,9 @@ The G.I. Joe fallacy is like that - it's when people think that just knowing abo
 ### 4.1.1. **The Knowledge-Action Gap Test**
 
 1. **The Implementation Check**: When you learn about a new cognitive bias, do you immediately create specific strategies to counteract it in your own life, or do you just file the knowledge away?
-
 2. **The Double Standard Detector**: Can you recall three times in the past month where you pointed out a bias in others' behavior but failed to notice it in your own?
-
 3. **The Feedback Resistance Test**: When someone suggests you might be influenced by a bias you know about, what's your first reaction? Do you get defensive or genuinely curious?
-
 4. **The Behavioral Change Question**: Name three biases you know about intellectually. For each one, what specific actions have you taken in the last month to counteract it?
-
 5. **The Awareness Hypocrisy Scale**: Rate yourself from 1-5: How often do you use knowledge of biases as a way to criticize others rather than improve yourself?
 
 ### 4.1.2. **Scoring And Interpretation**

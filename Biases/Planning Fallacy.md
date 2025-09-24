@@ -53,9 +53,7 @@ The planning fallacy is when you think something will take way less time than it
    - [ ] **Finish significantly over your estimate**
 
 2. **History Check:** Have you looked at how long similar tasks actually took you in the past, or are you guessing based on best-case scenarios?
-
 3. **Buffer Question:** When planning, do you automatically add extra time for unexpected issues, or do you stick to your "ideal" timeline?
-
 4. **Reality Check:** If you had to bet money on your timeline accuracy, would you be confident enough to wager?
 
 **Score:** If you answered "yes" to questions 1, 2, or typically don't add buffer time, you likely experience the planning fallacy.

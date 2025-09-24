@@ -107,10 +107,10 @@ C) "I should verify the facts about both situations"
 ---
 
 **Quick Test Answers:**
-1) A or C - Ideally C (same standard for both), but A shows the bias in action
-2) A or C - C (same standard) is best, but A demonstrates the bias
-3) A or C - C (same investigation) is ideal, but A shows the bias
-4) A or C - C (same fact-checking) is best, but A demonstrates the bias
+1. A or C - Ideally C (same standard for both), but A shows the bias in action
+2. A or C - C (same standard) is best, but A demonstrates the bias
+3. A or C - C (same investigation) is ideal, but A shows the bias
+4. A or C - C (same fact-checking) is best, but A demonstrates the bias
 
 > "The eye sees only what the mind is prepared to comprehend." - Robertson Davies
 

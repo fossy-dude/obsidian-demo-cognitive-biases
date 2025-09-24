@@ -12,17 +12,12 @@ The Empathy Gap is like expecting your friend to understand why you're cranky wh
 
 **Warning signs you might be experiencing an empathy gap:**
 
-• **Double standards in understanding**: You expect others to "get" your bad mood or stress, but dismiss their emotional reactions as overblown
-
-• **"They should know" thinking**: Assuming others can read your mind or emotional state without clear communication
-
-• **Emotional state blindness**: Being unable to relate to how you felt in past emotional states (like forgetting how painful heartbreak was when you're happy)
-
-• **Impatience with others' struggles**: Getting frustrated when someone can't "just get over" something that seems simple to you
-
-• **Hot-cold empathy mismatches**: Making promises or judgments about future emotional situations while in a different emotional state
-
-• **Minimizing others' experiences**: Thinking "I would never react that way" without considering their perspective or circumstances
+- **Double standards in understanding**: You expect others to "get" your bad mood or stress, but dismiss their emotional reactions as overblown
+- **"They should know" thinking**: Assuming others can read your mind or emotional state without clear communication
+- **Emotional state blindness**: Being unable to relate to how you felt in past emotional states (like forgetting how painful heartbreak was when you're happy)
+- **Impatience with others' struggles**: Getting frustrated when someone can't "just get over" something that seems simple to you
+- **Hot-cold empathy mismatches**: Making promises or judgments about future emotional situations while in a different emotional state
+- **Minimizing others' experiences**: Thinking "I would never react that way" without considering their perspective or circumstances
 
 # 3. How Bias Shows Up
 

@@ -54,13 +54,9 @@ The Women are Wonderful Effect is like wearing special glasses that make you see
 ## 4.1. Self-Assessment Questions
 
 1. **The First Impression Check**: When meeting someone new, do you automatically assume positive qualities about women that you don't assume about men?
-
 2. **The Equal Standards Test**: If a man and woman make the same mistake, do you find yourself being more understanding toward the woman?
-
 3. **The Leadership Assessment**: When thinking about leadership qualities, do you automatically associate positive traits like "collaborative" and "empathetic" more with women?
-
 4. **The Trust Evaluation**: Given identical credentials and experience, would you trust a woman more than a man with sensitive information or important responsibilities?
-
 5. **The Feedback Pattern**: Do you notice yourself giving women more positive feedback and men more constructive criticism for the same performance level?
 
 **Scoring**: If you answered "yes" to three or more questions, you may be experiencing the Women are Wonderful Effect.

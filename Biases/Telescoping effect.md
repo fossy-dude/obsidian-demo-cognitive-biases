@@ -55,13 +55,9 @@ Telescoping Effect is when your brain plays tricks on you about when things happ
 ## 4.1. Self-Assessment Questions
 
 1. **The Timeline Check**: When asked "when did that happen?", do you frequently need to consult calendars or records to verify your memory?
-
 2. **The Surprise Factor**: How often are you genuinely surprised when you learn the actual timing of events you thought you remembered clearly?
-
 3. **The Age Test**: Can you accurately recall how old you were during major life events without checking birth dates or other references?
-
 4. **The Recent vs. Remote**: Do you find yourself pushing recent events further back in time while bringing distant events closer to the present?
-
 5. **The Documentation Dependency**: How often do you rely on digital calendars, photos, or written records to verify when things actually happened?
 
 **Scoring**: If you answered "often" or "very often" to more than two questions, you may be experiencing the Telescoping Effect.

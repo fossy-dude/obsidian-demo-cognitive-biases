@@ -105,9 +105,9 @@ C) "I love that you tried something new! Next time maybe we could adjust the coo
 ---
 
 **Quick Test Answers:**
-1) B - Acknowledge their effort while gently addressing concerns
-2) C - Offer constructive criticism with specific suggestions for improvement
-3) C - Be honest about the issue while being supportive and solution-focused
+1. B - Acknowledge their effort while gently addressing concerns
+2. C - Offer constructive criticism with specific suggestions for improvement
+3. C - Be honest about the issue while being supportive and solution-focused
 
 > "Honesty is the best policy, but tact is the best delivery system." - Unknown
 

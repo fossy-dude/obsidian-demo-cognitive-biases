@@ -12,25 +12,16 @@ Imagine you're watching a pot of water that won't boil, and you keep turning up 
 
 **Warning Signs of Action Bias:**
 
-• You feel uncomfortable with silence or stillness and feel the need to fill every moment with activity
-
-• You make impulsive decisions just to "move things forward" without proper consideration
-
-• You interrupt others to suggest solutions before fully understanding the problem
-
-• You feel anxious when waiting for more information and prefer to act on incomplete data
-
-• You believe "doing something is always better than doing nothing" in all situations
-
-• You make unnecessary changes to projects or systems that are working fine
-
-• You over-engineer solutions to problems that don't really exist
-
-• You struggle with patience and prefer quick action over thoughtful deliberation
-
-• You justify hasty decisions by saying "at least I did something" even when results are poor
-
-• You feel restless during periods of observation or planning
+- You feel uncomfortable with silence or stillness and feel the need to fill every moment with activity
+- You make impulsive decisions just to "move things forward" without proper consideration
+- You interrupt others to suggest solutions before fully understanding the problem
+- You feel anxious when waiting for more information and prefer to act on incomplete data
+- You believe "doing something is always better than doing nothing" in all situations
+- You make unnecessary changes to projects or systems that are working fine
+- You over-engineer solutions to problems that don't really exist
+- You struggle with patience and prefer quick action over thoughtful deliberation
+- You justify hasty decisions by saying "at least I did something" even when results are poor
+- You feel restless during periods of observation or planning
 
 # 3. How Bias Shows Up
 
@@ -65,9 +56,7 @@ Imagine you're watching a pot of water that won't boil, and you keep turning up 
 **Action Bias Self-Check:**
 
 1. **The Patience Test**: "Am I considering waiting or doing nothing as a valid option, or do I feel compelled to act immediately regardless of circumstances?"
-
 2. **The 'If It Ain't Broke' Test**: "Am I trying to fix something that's actually working well, or create solutions to problems that don't really exist?"
-
 3. **The Motivation Test**: "Am I taking action because it's truly necessary, or because I feel restless, anxious, or pressured to appear busy/productive?"
 
 **Quick Assessment**: If you find yourself rarely choosing inaction, feeling uncomfortable with waiting, or justifying actions by saying "at least I did something," you're likely influenced by action bias.
@@ -82,21 +71,21 @@ Imagine you're watching a pot of water that won't boil, and you keep turning up 
 **️ Strategies to Combat Action Bias:**
 
 **Immediate Actions (Start Today):**
-• **Practice Strategic Patience**: Before acting, ask "What happens if I do nothing for 24 hours?"
-• **Implement the "5-Why Rule"**: Ask yourself five times "Why do I need to act on this right now?"
-• **Create a "Wait Period"**: Mandate a minimum waiting period before making non-urgent decisions
-• **Document Your Rationale**: Write down exactly why action is needed before proceeding
+- **Practice Strategic Patience**: Before acting, ask "What happens if I do nothing for 24 hours?"
+- **Implement the "5-Why Rule"**: Ask yourself five times "Why do I need to act on this right now?"
+- **Create a "Wait Period"**: Mandate a minimum waiting period before making non-urgent decisions
+- **Document Your Rationale**: Write down exactly why action is needed before proceeding
 
 **Short-term Improvements (This Week):**
-• **Schedule Inaction**: Block time in your calendar specifically for observation and reflection
-• **Seek Counter-Opinions**: Ask team members "Should we wait on this?" instead of "How fast can we do this?"
-• **Practice "Active Waiting"**: Use waiting periods productively—gather data, observe outcomes, monitor developments
-• **Celebrate Patience**: Acknowledge and reward yourself for making good waiting decisions
+- **Schedule Inaction**: Block time in your calendar specifically for observation and reflection
+- **Seek Counter-Opinions**: Ask team members "Should we wait on this?" instead of "How fast can we do this?"
+- **Practice "Active Waiting"**: Use waiting periods productively—gather data, observe outcomes, monitor developments
+- **Celebrate Patience**: Acknowledge and reward yourself for making good waiting decisions
 
 **Long-term Solutions (Ongoing):**
-• **Develop Comfort with Uncertainty**: Practice being comfortable without immediate answers or actions
-• **Build Observation Skills**: Spend dedicated time watching and learning before intervening
-• **Create Decision Frameworks**: Establish clear criteria for when action is truly necessary vs. when waiting is better
-• **Study Historical Examples**: Learn from cases where patience led to better outcomes than hasty action
-• **Mindfulness Practice**: Regular meditation helps develop the ability to sit with discomfort without immediate action
+- **Develop Comfort with Uncertainty**: Practice being comfortable without immediate answers or actions
+- **Build Observation Skills**: Spend dedicated time watching and learning before intervening
+- **Create Decision Frameworks**: Establish clear criteria for when action is truly necessary vs. when waiting is better
+- **Study Historical Examples**: Learn from cases where patience led to better outcomes than hasty action
+- **Mindfulness Practice**: Regular meditation helps develop the ability to sit with discomfort without immediate action
 

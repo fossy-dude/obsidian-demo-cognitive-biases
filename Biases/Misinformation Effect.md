@@ -106,9 +106,9 @@ C) Ask for specific examples before changing your recollection
 ---
 
 **Quick Test Answers:**
-1) C - You're not sure anymore (the news report introduced misinformation)
-2) B - The misinformation effect is starting (the question planted doubt)
-3) C - Ask for specific examples before changing your recollection (seek evidence before accepting new information)
+1. C - You're not sure anymore (the news report introduced misinformation)
+2. B - The misinformation effect is starting (the question planted doubt)
+3. C - Ask for specific examples before changing your recollection (seek evidence before accepting new information)
 
 > "Memory is not a video recorder; it's more like a Wikipedia page. You can edit it, and so can other people." - Elizabeth Loftus
 

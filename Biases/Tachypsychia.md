@@ -113,9 +113,9 @@ C) Tachypsychia - time dilation during boredom
 ---
 
 **Quick Test Answers:**
-1) C - Tachypsychia - your perception of time was distorted during stress
-2) C - Tachypsychia - subjective time compression during engaging activities
-3) C - Tachypsychia - time dilation during boring or unpleasant situations
+1. C - Tachypsychia - your perception of time was distorted during stress
+2. C - Tachypsychia - subjective time compression during engaging activities
+3. C - Tachypsychia - time dilation during boring or unpleasant situations
 
 > "Time is what we want most, but what we use worst." - William Penn
 

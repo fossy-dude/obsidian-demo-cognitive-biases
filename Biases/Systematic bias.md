@@ -112,9 +112,9 @@ C) Normal project variation
 ---
 
 **Quick Test Answers:**
-1) C - Systematic bias in your estimates (consistent under-budgeting pattern)
-2) C - Systematic pessimism bias (always expecting worse outcomes)
-3) B - Systematic underestimation bias (consistent time underestimation)
+1. C - Systematic bias in your estimates (consistent under-budgeting pattern)
+2. C - Systematic pessimism bias (always expecting worse outcomes)
+3. B - Systematic underestimation bias (consistent time underestimation)
 
 > "The first step toward correcting a bias is recognizing that you have one. The second step is accepting that it's not random, but systematic." - Decision Science Researcher
 

@@ -12,21 +12,14 @@ Imagine you're in a room with a flashing neon sign and a regular lightbulb—you
 
 **Warning Signs of Salience Bias:**
 
-• You find yourself fixated on dramatic news stories while ignoring important but boring statistics
-
-• You give more weight to the most recent or vivid information you've received, regardless of its actual relevance
-
-• You notice yourself remembering colorful details but forgetting key facts or numbers
-
-• You make decisions based on what's most visible or attention-grabbing rather than what's most significant
-
-• You find yourself influenced by the person who talks the most or the loudest in a meeting
-
-• You overestimate the likelihood of events that receive lots of media coverage or emotional attention
-
-• You catch yourself focusing on surface-level appearances while overlooking deeper, more important factors
-
-• You notice your attention being drawn to exceptions and outliers rather than typical patterns or trends
+- You find yourself fixated on dramatic news stories while ignoring important but boring statistics
+- You give more weight to the most recent or vivid information you've received, regardless of its actual relevance
+- You notice yourself remembering colorful details but forgetting key facts or numbers
+- You make decisions based on what's most visible or attention-grabbing rather than what's most significant
+- You find yourself influenced by the person who talks the most or the loudest in a meeting
+- You overestimate the likelihood of events that receive lots of media coverage or emotional attention
+- You catch yourself focusing on surface-level appearances while overlooking deeper, more important factors
+- You notice your attention being drawn to exceptions and outliers rather than typical patterns or trends
 
 # 3. How Bias Shows Up
 
@@ -55,9 +48,7 @@ Imagine you're in a room with a flashing neon sign and a regular lightbulb—you
 **Salience Bias Self-Check:**
 
 1. **The "Quiet Factors" Test**: "What important but less noticeable factors am I overlooking? If I remove the most dramatic or attention-grabbing elements, what else matters in this decision?"
-
 2. **The "Volume vs. Value" Test**: "Am I giving weight to information because it's loud, frequent, or emotionally charged, rather than because it's actually relevant or important?"
-
 3. **The "Reverse Spotlight" Test**: "If I deliberately focus on what's NOT being talked about, what hidden but significant factors emerge that I should consider?"
 
 **Quick Check**: If you're drawn to the most dramatic or visible elements while ignoring quieter but potentially more important factors, you're likely experiencing salience bias!
@@ -67,19 +58,19 @@ Imagine you're in a room with a flashing neon sign and a regular lightbulb—you
 **️ Defense Strategies Against Salience Bias:**
 
 **Before Making Decisions:**
-• **Practice Deliberate Blindness**: Intentionally ignore the most eye-catching elements first—force yourself to consider the boring, mundane factors before the exciting ones
-• **Seek the "Quiet Data"**: Actively look for statistics, trends, and patterns that aren't getting attention but may be more relevant
-• **Use the "Newspaper Test"**: Ask yourself "Would this matter if it weren't front-page news?" to separate importance from attention-grabbing nature
+- **Practice Deliberate Blindness**: Intentionally ignore the most eye-catching elements first—force yourself to consider the boring, mundane factors before the exciting ones
+- **Seek the "Quiet Data"**: Actively look for statistics, trends, and patterns that aren't getting attention but may be more relevant
+- **Use the "Newspaper Test"**: Ask yourself "Would this matter if it weren't front-page news?" to separate importance from attention-grabbing nature
 
 **When Evaluating Information:**
-• **Apply the "Boring Filter"**: Deliberately spend more time analyzing less dramatic information to balance your perspective
-• **Look for the Absent**: Ask "What's missing from this picture?"—often the most important factors are the ones not being discussed
-• **Use Quantitative Analysis**: Convert emotional, vivid information into numbers and statistics to reduce the impact of salience
+- **Apply the "Boring Filter"**: Deliberately spend more time analyzing less dramatic information to balance your perspective
+- **Look for the Absent**: Ask "What's missing from this picture?"—often the most important factors are the ones not being discussed
+- **Use Quantitative Analysis**: Convert emotional, vivid information into numbers and statistics to reduce the impact of salience
 
 **For Better Decision-Making:**
-• **Create Checklists**: Develop decision frameworks that force you to consider all relevant factors, not just the most prominent ones
-• **Seek Diverse Perspectives**: Talk to people who aren't caught up in the current narrative—they often see what's being overlooked
-• **Practice "Salience Pausing"**: When you notice yourself drawn to dramatic information, pause and deliberately redirect attention to less flashy but potentially more important aspects
+- **Create Checklists**: Develop decision frameworks that force you to consider all relevant factors, not just the most prominent ones
+- **Seek Diverse Perspectives**: Talk to people who aren't caught up in the current narrative—they often see what's being overlooked
+- **Practice "Salience Pausing"**: When you notice yourself drawn to dramatic information, pause and deliberately redirect attention to less flashy but potentially more important aspects
 
 **🔑 Advanced Technique**: Keep a "salience journal" for decisions—note what caught your attention initially, then revisit the decision 48 hours later to see what factors you overlooked. This helps build awareness of how salience bias affects your judgment.
 

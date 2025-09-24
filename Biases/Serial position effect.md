@@ -52,13 +52,9 @@ The serial position effect is when our brains are best at remembering things tha
 ## 4.1. Self-Assessment Questions
 
 1. **The List Memory Test**: Try to recall a recent shopping list or meeting agenda. Do you remember the first and last items more clearly than the middle ones?
-
 2. **The Presentation Recall**: Think about the last presentation you attended. Do you remember the introduction and conclusion better than the detailed content in between?
-
 3. **The Conversation Pattern**: When someone tells you a long story, do you find yourself remembering how it started and how it ended, but being fuzzy on the middle details?
-
 4. **The Decision Sequence**: When making decisions from multiple options, do you tend to favor the first or last options presented?
-
 5. **The Learning Retention**: When studying or learning new information, do you find that the opening concepts and final conclusions stick with you more than the middle content?
 
 **Scoring**: If you answered "yes" to more than two questions, you are likely experiencing the serial position effect in your memory and decision-making processes.

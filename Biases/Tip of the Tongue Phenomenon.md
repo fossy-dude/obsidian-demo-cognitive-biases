@@ -55,13 +55,9 @@ The Tip of the Tongue phenomenon is when your brain knows a word or name exists 
 ## 4.1. Self-Assessment Questions
 
 1. **The Partial Memory Test**: How often do you find yourself saying "I know what it is, I just can't remember the name"?
-
 2. **The Frustration Level**: When you can't recall a word, do you feel confident that you know it but just can't access it right now?
-
 3. **The Detail Recall**: Can you usually remember details about the elusive word (like its first letter, meaning, or context) even when you can't remember the word itself?
-
 4. **The Resolution Pattern**: How often does the word eventually come to you later, either when you're not thinking about it or when someone provides a small hint?
-
 5. **The Frequency Factor**: Does this happen more often with words you don't use frequently, or can it happen with common words too?
 
 **Scoring**: If you answered "often" or "very often" to more than two questions, you regularly experience the Tip of the Tongue phenomenon.

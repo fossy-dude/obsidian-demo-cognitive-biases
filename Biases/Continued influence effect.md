@@ -52,13 +52,9 @@ The Continued Influence Effect is like that - even after we learn that something
 ## 4.1. Self-Assessment Questions
 
 1. **The Correction Challenge**: When you receive corrected information, do you find yourself still defaulting to the original version when under stress or making quick decisions?
-
 2. **The Source Memory Test**: Can you clearly distinguish between which information came from reliable sources versus which has been corrected or debunked?
-
 3. **The Emotional Residue Check**: Do you still feel emotional reactions (fear, excitement, doubt) based on information you know has been proven false?
-
 4. **The Decision Influence Audit**: Look at recent important decisions - were any of them influenced by information you now know was incorrect?
-
 5. **The Persistence Assessment**: Has there been information that was corrected weeks or months ago, but you still find yourself thinking about it as if it were true?
 
 **Scoring**: If you answered "yes" to more than two questions, the Continued Influence Effect may be affecting your thinking and decision-making.

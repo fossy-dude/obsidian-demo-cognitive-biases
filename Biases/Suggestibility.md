@@ -63,11 +63,8 @@ Suggestibility is the Tendency to Accept and Internalize Suggestions from Others
 **Self-Assessment Questions:**
 
 1. **The Belief Origin Test**: When someone asks "Why do you believe that?" do you say "Because everyone knows" or "I read it somewhere" instead of having concrete reasons?
-
 2. **The Resistance Check**: When you hear something that contradicts your current beliefs, do you immediately accept it or do you question and evaluate it first?
-
 3. **The Authority Test**: Do you automatically trust information from certain people or sources, even when they could be wrong?
-
 4. **The Repetition Detector**: Have you ever found yourself believing something just because you've heard it many times, regardless of its actual truth?
 
 **The Suggestibility Scale:**

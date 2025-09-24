@@ -107,10 +107,10 @@ C) "We're not compatible if we disagree about anything"
 ---
 
 **Quick Test Answers:**
-1) C - Recognizing that even the best can have off days without assuming systemic failure
-2) B - Understanding that trends can and do reverse, requiring risk management
-3) B - Proactive maintenance rather than assuming past performance guarantees future results
-4) B - Seeing disagreements as normal parts of relationships rather than signs of failure
+1. C - Recognizing that even the best can have off days without assuming systemic failure
+2. B - Understanding that trends can and do reverse, requiring risk management
+3. B - Proactive maintenance rather than assuming past performance guarantees future results
+4. B - Seeing disagreements as normal parts of relationships rather than signs of failure
 
 > "The only constant in life is change." - Heraclitus
 

@@ -106,9 +106,9 @@ C) Having someone read it to you while you follow along
 ---
 
 **Quick Test Answers:**
-1) B - Watching video tutorials while practicing (combines visual and hands-on learning)
-2) B - Show charts and graphs while explaining (combines visual and verbal presentation)
-3) B or C - Video demonstration or reading while following along (multi-modal approaches)
+1. B - Watching video tutorials while practicing (combines visual and hands-on learning)
+2. B - Show charts and graphs while explaining (combines visual and verbal presentation)
+3. B or C - Video demonstration or reading while following along (multi-modal approaches)
 
 > "Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
 

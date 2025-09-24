@@ -42,13 +42,9 @@ The illusion of asymmetric insight is when we think we understand others much be
 **Self-Assessment Questions:**
 
 1. **Understanding Gap Test**: When someone accurately predicts your behavior, do you typically think it was "luck" or "obvious," but when you predict others' behavior, you credit your insight?
-
 2. **Complexity Double Standard**: Do you view yourself as complex and multi-dimensional while seeing others as simpler and more predictable?
-
 3. **Evidence Balance Test**: Can you recall 3 times others understood you better than you expected? Compare this to how many times you felt misunderstood.
-
 4. **Feedback Reaction Check**: How do you react when someone says "I know you better than you think"? (Honest reaction vs. defensive response)
-
 5. **Prediction Success Rate**: Do you take more credit for successful predictions about others than about yourself?
 
 **Red Flag Indicator**: If you answered "yes" to 3 or more questions, the illusion of asymmetric insight may be affecting your judgment.
@@ -58,13 +54,9 @@ The illusion of asymmetric insight is when we think we understand others much be
 **Immediate Action Strategies:**
 
 1. ** Perspective Reversal Exercise**: When you think you understand someone, ask: "What might they understand about me that I'm missing?" This creates mental balance.
-
 2. **📝 Reality Journal**: Keep a log of times others understood you better than expected, and times your predictions about others were wrong. Review weekly.
-
 3. **👥 Seek Direct Feedback**: Regularly ask trusted colleagues/friends: "What do you think I misunderstand about myself?" Listen without defending.
-
 4. **Complexity Calibration**: Consciously acknowledge that everyone is equally complex. When you think "John is simple," immediately challenge: "In what ways is John more complex than I realize?"
-
 5. **🤔 Evidence-Based Assessment**: Before claiming insight about someone, ask: "What specific evidence do I have? What evidence am I ignoring?"
 
 **Long-Term Practices:**

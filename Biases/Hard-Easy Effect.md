@@ -48,61 +48,41 @@ The Hard-Easy Effect is when people think difficult tasks will be finished faste
 ## 3.1. Workplace Examples
 
 - **Software Development Projects**: A development team confidently estimates a complex feature will take "two weeks max" while dreading a simple bug fix that they schedule for three days. The complex feature ends up taking two months, while the bug fix is completed in two hours.
-
 - **Marketing Campaigns**: A marketing team gets excited about launching an ambitious multi-channel campaign and promises results in one month, while procrastinating on basic email updates that could be done in an afternoon. The campaign struggles for months, and the emails remain unsent.
-
 - **Business Planning**: Entrepreneurs enthusiastically claim their revolutionary startup will be profitable in six months while putting off simple administrative tasks like setting up proper accounting systems. The startup takes years to break even, and the accounting mess causes serious problems.
-
 - **Product Development**: A product manager underestimates the time needed for complex product redesign but overestimates the effort required for simple user interface improvements. The redesign takes months longer than planned, while UI improvements are completed quickly and show immediate benefits.
-
 - **Organizational Change**: Leaders confidently announce a complete company restructuring will be implemented in one quarter while delaying basic process improvements that could show immediate results. The restructuring takes years, and the easy improvements remain unaddressed.
 
 ## 3.2. Daily Life Scenarios
 
 - **Home Improvement Projects**: Someone excitedly starts a complete kitchen renovation thinking it will take "just a few weekends" while putting off simple repairs like fixing a leaky faucet. The renovation drags on for months, and the leak causes water damage.
-
 - **Fitness Goals**: A person enthusiastically commits to training for a marathon in three months while struggling to maintain a simple 15-minute daily stretching routine. The marathon training proves too ambitious, and the flexibility never improves.
-
 - **Learning New Skills**: Someone decides to learn a complex programming language and believes they'll be proficient in a month, while avoiding basic computer maintenance tasks. The programming learning curve is steep, and computer problems accumulate.
-
 - **Home Organization**: A person plans a complete home organization system over one weekend but keeps postponing simple daily tidying habits. The weekend project overwhelms them, and clutter continues to build daily.
-
 - **Gardening Projects**: A beginner gardener dreams of creating elaborate landscaping in one season while neglecting basic watering and weeding tasks. The landscaping project fails, and existing plants suffer from neglect.
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Strategies**: An investor focuses on complex investment vehicles and trading strategies expecting quick returns while neglecting basic savings habits and emergency fund building. The complex strategies underperform, and financial stability remains elusive.
-
 - **Business Expansion**: A small business owner plans to open multiple new locations in one year while putting off basic customer service improvements. The expansion causes cash flow problems, and customer satisfaction declines.
-
 - **Budget Planning**: Someone creates elaborate investment plans and retirement calculations while struggling to maintain a simple monthly budget. The complex plans remain theoretical, while basic financial management causes ongoing stress.
-
 - **Debt Management**: A person focuses on complex debt consolidation strategies while avoiding simple habits like tracking daily expenses. The consolidation doesn't address the root spending problems, and debt continues to grow.
-
 - **Real Estate Investment**: An investor underestimates the time and effort required for property renovation projects while overlooking basic property maintenance tasks. The renovations run over budget, and maintenance issues compound.
 
 ## 3.4. Educational and Personal Development
 
 - **Academic Goals**: A student takes on an extremely challenging course load expecting to excel quickly while neglecting basic study habits and time management. The heavy course load leads to burnout, and foundational skills remain weak.
-
 - **Creative Projects**: An artist plans an elaborate masterpiece to complete in one month while avoiding daily practice exercises. The masterpiece remains unfinished, and skills don't improve.
-
 - **Career Development**: Someone focuses on landing a major promotion immediately while putting off networking and basic skill development. The promotion doesn't materialize, and career growth stalls.
-
 - **Language Learning**: A language learner aims for fluency in three months using advanced methods while skipping basic vocabulary practice. Fluency isn't achieved, and fundamental gaps remain.
-
 - **Health and Wellness**: A person adopts an extreme fitness regimen expecting rapid transformation while avoiding simple daily health habits like proper sleep and hydration. The intense program leads to injury, and basic health remains neglected.
 
 ## 3.5. Relationship and Social Impact 👥
 
 - **Major Life Changes**: Couples planning elaborate weddings underestimate the time and effort required while putting off important relationship conversations. Wedding planning becomes overwhelming, and relationship issues are ignored.
-
 - **Social Event Planning**: Someone volunteers to organize a major community event thinking it will be quick and easy while neglecting simple follow-ups with friends. The event planning consumes all their time, and personal relationships suffer.
-
 - **Family Projects**: Families undertake major home renovations expecting quick completion while avoiding basic family maintenance tasks and quality time. The renovation causes stress, and family bonds weaken.
-
 - **Volunteer Work**: People commit to leading major charity initiatives while neglecting smaller, consistent volunteer opportunities. The large initiatives prove overwhelming, and consistent impact is lost.
-
 - **Personal Boundaries**: Someone focuses on making major life changes to improve relationships while avoiding simple daily boundary-setting practices. The big changes don't address underlying issues, and relationship patterns continue.
 
 # 4. Quick Test
@@ -112,28 +92,21 @@ The Hard-Easy Effect is when people think difficult tasks will be finished faste
 ### 4.1.1. **Hard-Easy Effect Awareness Test**
 
 1. **Timeline Estimation**: When planning projects, do you consistently underestimate the time needed for complex tasks while overestimating the time required for simple ones?
-
 2. **Success Probability Assessment**: Do you believe that difficult tasks have a higher chance of success than they actually do, while viewing easy tasks as more challenging than they are?
-
 3. **Motivation vs. Reality Check**: Does your enthusiasm for ambitious projects lead you to create unrealistic expectations about completion time and difficulty?
-
 4. **Deadline History**: Looking back at your recent projects, have complex tasks consistently taken longer than expected while simple tasks were completed more quickly than anticipated?
-
 5. **Resource Allocation**: Do you allocate more time and attention to easy tasks than to difficult ones in your planning and scheduling?
 
 ### 4.1.2. **Planning And Decision-Making Questions**
 
-6. **Priority Paradox**: Do you prioritize exciting, challenging tasks over boring but necessary ones, assuming they'll be completed more quickly?
-
-7. **Team Feedback**: Do your colleagues or team members frequently express concerns about your timeline estimates for complex projects?
-
-8. **Procrastination Patterns**: Do you find yourself procrastinating on simple tasks while diving enthusiastically into complex ones?
+1. **Priority Paradox**: Do you prioritize exciting, challenging tasks over boring but necessary ones, assuming they'll be completed more quickly?
+2. **Team Feedback**: Do your colleagues or team members frequently express concerns about your timeline estimates for complex projects?
+3. **Procrastination Patterns**: Do you find yourself procrastinating on simple tasks while diving enthusiastically into complex ones?
 
 ### 4.1.3. **Personal Experience Reflection**
 
-9. **Stress and Burnout**: Have you experienced significant stress or burnout when complex projects took much longer than you initially expected?
-
-10. **Learning from Experience**: Despite past experiences with underestimating complex tasks, do you continue to make similar timeline and difficulty assumptions?
+1. **Stress and Burnout**: Have you experienced significant stress or burnout when complex projects took much longer than you initially expected?
+2. **Learning from Experience**: Despite past experiences with underestimating complex tasks, do you continue to make similar timeline and difficulty assumptions?
 
 ### 4.1.4. **Scoring And Interpretation**
 

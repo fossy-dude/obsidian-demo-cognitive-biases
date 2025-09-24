@@ -47,49 +47,33 @@ Gender bias is when people make assumptions about what someone can do, should do
 ## 3.1. Workplace Examples
 
 - **Hiring Decisions**: A manager assumes a male candidate is more suitable for a technical leadership role, while automatically considering a female candidate for a support or administrative position, regardless of their actual qualifications and experience.
-
 - **Meeting Dynamics**: In team meetings, women's ideas are often ignored until repeated by men, who then receive credit for the same suggestions. Women are frequently asked to take notes or handle administrative tasks during meetings.
-
 - **Performance Reviews**: Women receive feedback about their personality and communication style (e.g., "too aggressive," "needs to be more collaborative"), while men receive feedback focused on their technical skills and business results.
-
 - **Promotion Patterns**: Qualified women are overlooked for promotion because managers assume they won't want more responsibility due to family commitments, while men are assumed to be ready for advancement regardless of their personal circumstances.
-
 - **Salary Negotiations**: Women who negotiate salaries are viewed negatively and penalized, while men who negotiate the same way are seen as confident and rewarded.
 
 ## 3.2. Daily Life Scenarios
 
 - **Household Responsibilities**: In families, women are automatically expected to handle childcare, cleaning, and emotional labor, while men are expected to handle finances and home repairs, regardless of individual skills or preferences.
-
 - **Social Interactions**: Men are consistently asked to lift heavy objects or handle "manly" tasks, while women are expected to be more nurturing and emotionally supportive in social situations.
-
 - **Parenting Judgments**: Mothers face criticism for working too much or being too involved with their children, while fathers receive praise for basic parenting tasks that mothers do routinely.
-
 - **Hobby and Interest Assumptions**: People express surprise when men enjoy cooking or arts, or when women enjoy sports, technology, or traditionally masculine hobbies.
-
 - **Safety and Independence**: Women receive warnings about walking alone at night, while men are encouraged to be independent and adventurous without similar safety concerns.
 
 ## 3.3. Financial Decision-Making 💰
 
 - **Investment Advice**: Financial advisors often give different advice to men and women, assuming women are more risk-averse and need more guidance, while men are encouraged to take more investment risks.
-
 - **Credit and Loan Decisions**: Loan officers may unconsciously view women as less creditworthy or more likely to prioritize family over career, affecting lending decisions.
-
 - **Insurance Premiums**: Insurance companies sometimes charge different rates based on gender assumptions about driving behavior or health risks.
-
 - **Financial Literacy**: Society assumes men are naturally better at managing money and investments, while women are presumed to need more help and education in financial matters.
-
 - **Business Funding**: Female entrepreneurs often face more skepticism and scrutiny when seeking venture capital or business loans compared to their male counterparts.
 
 ## 3.4. Educational and Social Impact
 
 - **Academic Subject Selection**: Teachers and parents may steer girls away from STEM subjects and boys away from arts and humanities based on gender stereotypes rather than individual aptitudes.
-
 - **Classroom Participation**: Boys are often called on more frequently in class, especially in technical subjects, while girls may be praised for being quiet and compliant.
-
 - **Sports and Physical Activity**: Girls may be discouraged from competitive sports, while boys may be pressured to participate in athletics even if they prefer other activities.
-
 - **Media Representation**: Movies, TV shows, and advertisements frequently portray women in caregiving roles and men in leadership or technical roles, reinforcing gender stereotypes.
-
 - **Healthcare Treatment**: Medical professionals may dismiss women's pain symptoms as emotional or psychological, while taking men's similar complaints more seriously.
 
 # 4. Quick Test
@@ -99,28 +83,21 @@ Gender bias is when people make assumptions about what someone can do, should do
 ### 4.1.1. **Gender Bias Awareness Test**
 
 1. **The Assumption Check**: When meeting someone new, do you automatically make assumptions about their interests, abilities, or roles based on their gender?
-
 2. **The Language Audit**: How often do you use gendered language or phrases that reinforce stereotypes (e.g., "man up," "like a girl," gender-specific job titles)?
-
 3. **The Recognition Challenge**: Can you recall instances where you've given credit to someone based on their gender rather than their actual contribution?
-
 4. **The Double Standard Detector**: Do you apply different standards or expectations to people based on their gender in similar situations?
-
 5. **The Opportunity Assessment**: When making decisions about opportunities, promotions, or responsibilities, do you consider gender as a factor rather than focusing on individual merit?
 
 ### 4.1.2. **Workplace-Specific Questions**
 
-6. **Meeting Participation**: In meetings, do you notice patterns in who gets interrupted, who gets credit for ideas, or who gets asked to handle administrative tasks?
-
-7. **Feedback Patterns**: Is there a difference in the type of feedback you give to people of different genders (e.g., personality feedback vs. skill-based feedback)?
-
-8. **Hiring and Promotion**: When evaluating candidates, do you find yourself considering gender-based assumptions about career commitment, leadership style, or technical ability?
+1. **Meeting Participation**: In meetings, do you notice patterns in who gets interrupted, who gets credit for ideas, or who gets asked to handle administrative tasks?
+2. **Feedback Patterns**: Is there a difference in the type of feedback you give to people of different genders (e.g., personality feedback vs. skill-based feedback)?
+3. **Hiring and Promotion**: When evaluating candidates, do you find yourself considering gender-based assumptions about career commitment, leadership style, or technical ability?
 
 ### 4.1.3. **Personal Life Questions**
 
-9. **Household Dynamics**: At home, are responsibilities divided based on gender stereotypes rather than individual preferences and abilities?
-
-10. **Social Interactions**: Do you treat friends, family members, or acquaintances differently based on their gender in similar situations?
+1. **Household Dynamics**: At home, are responsibilities divided based on gender stereotypes rather than individual preferences and abilities?
+2. **Social Interactions**: Do you treat friends, family members, or acquaintances differently based on their gender in similar situations?
 
 ### 4.1.4. **Scoring And Interpretation**
 

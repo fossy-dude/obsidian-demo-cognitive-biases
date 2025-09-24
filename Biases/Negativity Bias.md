@@ -12,21 +12,14 @@ Your brain pays way more attention to bad things than good things—like how one
 
 **Warning Signs You're Caught in Negativity Bias:**
 
-• **Scrolling doom loops** - Endlessly consuming bad news or negative social media content
-
-• **Fixation on criticism** - One negative review overshadows dozens of positive ones
-
-• **Worst-case scenario thinking** - Automatically jumping to catastrophic outcomes
-
-• **Selective memory** - Easily recalling failures but struggling to remember successes
-
-• **Disproportionate emotional reactions** - Minor setbacks feel like major disasters
-
-• **Negative filter conversations** - Focusing only on problems when someone shares mixed news
-
-• **Risk paralysis** - Avoiding opportunities because you overestimate potential downsides
-
-• **Defensive posture** - Expecting attacks or criticism in neutral situations
+- **Scrolling doom loops** - Endlessly consuming bad news or negative social media content
+- **Fixation on criticism** - One negative review overshadows dozens of positive ones
+- **Worst-case scenario thinking** - Automatically jumping to catastrophic outcomes
+- **Selective memory** - Easily recalling failures but struggling to remember successes
+- **Disproportionate emotional reactions** - Minor setbacks feel like major disasters
+- **Negative filter conversations** - Focusing only on problems when someone shares mixed news
+- **Risk paralysis** - Avoiding opportunities because you overestimate potential downsides
+- **Defensive posture** - Expecting attacks or criticism in neutral situations
 
 # 3. How Bias Shows Up
 

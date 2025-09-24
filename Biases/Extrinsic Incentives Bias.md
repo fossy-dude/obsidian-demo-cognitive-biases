@@ -54,13 +54,9 @@ Extrinsic incentives bias is when we think other people are mostly motivated by 
 ## 4.1. Self-Assessment Questions
 
 1. **The Self-Other Comparison Test**: Think about an activity you enjoy (like cooking, exercising, or working on a project). Why do YOU do it? Now think about someone else doing the same activity—what's your first assumption about why THEY do it? If there's a gap, you may have this bias.
-
 2. **The Motivation Inventory**: List 5 things you do regularly and why you do them. Now list 5 things others do and why you think they do them. Are you more likely to attribute your own actions to internal motivation and others' to external rewards?
-
 3. **The "No Money" Scenario**: If you removed all external rewards (money, recognition, prizes) from a situation, would you assume people would stop participating? If yes, ask yourself whether YOU would stop doing similar activities without external rewards.
-
 4. **The Workplace Assessment**: At work, what percentage of employee motivation do you attribute to extrinsic factors versus intrinsic factors? Now ask yourself what percentage motivates YOU personally. Is there a significant difference?
-
 5. **The Child Behavior Test**: When you see a child doing something well (like sharing or studying), what's your first assumption about why they're doing it? If you immediately think about rewards they might receive, you may be underestimating intrinsic motivation.
 
 **Scoring**: If you consistently attribute others' behavior to external rewards while explaining your own behavior through internal motivation, you're likely experiencing extrinsic incentives bias.
