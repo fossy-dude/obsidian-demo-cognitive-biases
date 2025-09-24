@@ -1,0 +1,26 @@
+properties:
+  file.name:
+    displayName: Bias
+  note.category:
+    displayName: Category
+  note.source_url:
+    displayName: Source
+  note.description:
+    displayName: Description
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Biases"
+    order:
+      - file.name
+      - category
+      - description
+      - source_url
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.category: 479
+      note.description: 689
