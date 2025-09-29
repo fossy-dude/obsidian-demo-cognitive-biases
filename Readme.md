@@ -2,6 +2,8 @@
 
 Ensure you have [installed Obsidian](https://help.obsidian.md/install), and have familiarized yourself with the interface. Create a new vault, and copy the contents of this repo to it. That's it!
 
+If you are not familiar with markdown, check out this [simple list](Introduction%20to%20Markdown.md) of markdown features
+
 Start with [Master List](Master%20List.base) - contains a complete list of all the biases, with short descriptions and links to the respective files. `Ctrl+click` on the link to open it in a new tab and navigate!
 
 ## 1.1. How Did This All Start?
